@@ -1,0 +1,4026 @@
+3/20/2018 7:37:45 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.6
+       5MIN SLOPE: 5.8
+      15MIN SLOPE: -22.5
+      30MIN SLOPE: -18.9
+        1HR SLOPE: -20.5
+        2HR SLOPE: -22.1
+        3HR SLOPE: -27.5
+        4HR SLOPE: 28.8
+    1HR AVG SLOPE: -19.7
+    2HR AVG SLOPE: -21.3
+    3HR AVG SLOPE: -23.4
+    4HR AVG SLOPE: -10.3
+
+     TICKER PRICE: 8899.00
+           PROFIT: 0
+        BUY_PRICE: 8899.00
+       PRICE DIFF: 2.0100000000002183
+        SINK RATE: 0
+       PEAK PRICE: 8899.98000000
+     BOTTOM PRICE: 8889
+       SELL COUNT: 0
+  PRICE CHANGE UP: 8.969999999999345
+PRICE CHANGE DOWN: 72.01000000000022
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/20/2018 8:05:03 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -8.6
+       5MIN SLOPE: 8.1
+      15MIN SLOPE: 28.2
+      30MIN SLOPE: 14.9
+        1HR SLOPE: -13.6
+        2HR SLOPE: -35.0
+        3HR SLOPE: 8.1
+        4HR SLOPE: -17.1
+    1HR AVG SLOPE: 0.7
+    2HR AVG SLOPE: -24.3
+    3HR AVG SLOPE: -13.5
+    4HR AVG SLOPE: -14.4
+
+     TICKER PRICE: 8912.68
+           PROFIT: 0.1700000000000017
+        BUY_PRICE: 8912.68
+       PRICE DIFF: 13.409999999999854
+        SINK RATE: 0
+       PEAK PRICE: 8926.08000000
+     BOTTOM PRICE: 8912.67
+       SELL COUNT: 1
+  PRICE CHANGE UP: 80.67000000000007
+PRICE CHANGE DOWN: 57.30999999999949
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/21/2018 1:06:28 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 12.6
+      15MIN SLOPE: -3.7
+      30MIN SLOPE: -22.6
+        1HR SLOPE: 24.4
+        2HR SLOPE: 55.3
+        3HR SLOPE: 50.8
+        4HR SLOPE: 54.9
+    1HR AVG SLOPE: 0.9
+    2HR AVG SLOPE: 39.8
+    3HR AVG SLOPE: 43.5
+    4HR AVG SLOPE: 46.4
+
+     TICKER PRICE: 9081.17
+           PROFIT: 0
+        BUY_PRICE: 9081.17
+       PRICE DIFF: 0.020000000000436557
+        SINK RATE: 0
+       PEAK PRICE: 9081.18000000
+     BOTTOM PRICE: 9065.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 137.14999999999964
+PRICE CHANGE DOWN: 62
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/21/2018 1:18:48 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 8.7
+       5MIN SLOPE: 21.2
+      15MIN SLOPE: 15.2
+      30MIN SLOPE: 11.7
+        1HR SLOPE: 35.7
+        2HR SLOPE: 59.7
+        3HR SLOPE: 52.3
+        4HR SLOPE: 60.8
+    1HR AVG SLOPE: 23.7
+    2HR AVG SLOPE: 47.7
+    3HR AVG SLOPE: 49.2
+    4HR AVG SLOPE: 52.1
+
+     TICKER PRICE: 9105.91
+           PROFIT: 0.269999999999996
+        BUY_PRICE: 9105.91
+       PRICE DIFF: 0.1000000000003638
+        SINK RATE: 0
+       PEAK PRICE: 9106.00000000
+     BOTTOM PRICE: 9070.63
+       SELL COUNT: 1
+  PRICE CHANGE UP: 161.88999999999942
+PRICE CHANGE DOWN: 37.26000000000022
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 2:12:20 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -5.8
+       5MIN SLOPE: 0.0
+      15MIN SLOPE: -34.0
+      30MIN SLOPE: -33.6
+        1HR SLOPE: -30.1
+        2HR SLOPE: -8.2
+        3HR SLOPE: 31.4
+        4HR SLOPE: 29.0
+    1HR AVG SLOPE: -31.9
+    2HR AVG SLOPE: -19.1
+    3HR AVG SLOPE: -2.3
+    4HR AVG SLOPE: 5.5
+
+     TICKER PRICE: 9024.99
+           PROFIT: 0.269999999999996
+        BUY_PRICE: 9024.99
+       PRICE DIFF: 1.1300000000010186
+        SINK RATE: 0
+       PEAK PRICE: 9025.01000000
+     BOTTOM PRICE: 9015.53
+       SELL COUNT: 0
+  PRICE CHANGE UP: 79.86999999999898
+PRICE CHANGE DOWN: 119.28000000000065
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 2:16:09 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 6.3
+       5MIN SLOPE: 0.6
+      15MIN SLOPE: -4.7
+      30MIN SLOPE: -29.0
+        1HR SLOPE: -29.2
+        2HR SLOPE: -8.8
+        3HR SLOPE: 41.3
+        4HR SLOPE: 29.0
+    1HR AVG SLOPE: -29.1
+    2HR AVG SLOPE: -19.0
+    3HR AVG SLOPE: 1.1
+    4HR AVG SLOPE: 8.1
+
+     TICKER PRICE: 9035.00
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 9035.00
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 9035.00000000
+     BOTTOM PRICE: 9019.56
+       SELL COUNT: 1
+  PRICE CHANGE UP: 90.97999999999956
+PRICE CHANGE DOWN: 108.17000000000007
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 3:41:17 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: -6.8
+      15MIN SLOPE: -2.5
+      30MIN SLOPE: -25.7
+        1HR SLOPE: -35.2
+        2HR SLOPE: -35.1
+        3HR SLOPE: -34.3
+        4HR SLOPE: 31.6
+    1HR AVG SLOPE: -30.5
+    2HR AVG SLOPE: -35.2
+    3HR AVG SLOPE: -34.9
+    4HR AVG SLOPE: -18.3
+
+     TICKER PRICE: 9021.51
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 9021.51
+       PRICE DIFF: 25.23999999999978
+        SINK RATE: 0
+       PEAK PRICE: 9046.35000000
+     BOTTOM PRICE: 9021.51
+       SELL COUNT: 0
+  PRICE CHANGE UP: 77.10000000000036
+PRICE CHANGE DOWN: 122.04999999999927
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 5:28:43 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 4.2
+       5MIN SLOPE: 40.6
+      15MIN SLOPE: 34.8
+      30MIN SLOPE: 42.7
+        1HR SLOPE: 41.4
+        2HR SLOPE: 8.9
+        3HR SLOPE: -12.7
+        4HR SLOPE: -33.7
+    1HR AVG SLOPE: 42.0
+    2HR AVG SLOPE: 25.1
+    3HR AVG SLOPE: 12.5
+    4HR AVG SLOPE: 1.0
+
+     TICKER PRICE: 9031.86
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 9031.86
+       PRICE DIFF: 7.789999999999054
+        SINK RATE: 0
+       PEAK PRICE: 9039.64000000
+     BOTTOM PRICE: 9031.85
+       SELL COUNT: 1
+  PRICE CHANGE UP: 138.47000000000116
+PRICE CHANGE DOWN: 111.30999999999949
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/21/2018 8:52:41 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -4.0
+       5MIN SLOPE: 21.9
+      15MIN SLOPE: -30.8
+      30MIN SLOPE: -31.6
+        1HR SLOPE: -30.6
+        2HR SLOPE: -25.7
+        3HR SLOPE: -31.0
+        4HR SLOPE: 25.0
+    1HR AVG SLOPE: -31.1
+    2HR AVG SLOPE: -28.1
+    3HR AVG SLOPE: -29.1
+    4HR AVG SLOPE: -15.6
+
+     TICKER PRICE: 9018.77
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 9018.77
+       PRICE DIFF: 6.429999999998472
+        SINK RATE: 0
+       PEAK PRICE: 9025.13000000
+     BOTTOM PRICE: 9018.78
+       SELL COUNT: 0
+  PRICE CHANGE UP: 125.32000000000153
+PRICE CHANGE DOWN: 124.45999999999913
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/21/2018 9:02:35 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.7
+       5MIN SLOPE: 4.0
+      15MIN SLOPE: 27.8
+      30MIN SLOPE: -19.9
+        1HR SLOPE: -26.5
+        2HR SLOPE: -27.0
+        3HR SLOPE: -14.2
+        4HR SLOPE: 38.8
+    1HR AVG SLOPE: -23.2
+    2HR AVG SLOPE: -26.8
+    3HR AVG SLOPE: -22.6
+    4HR AVG SLOPE: -7.2
+
+     TICKER PRICE: 9030.01
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 9030.01
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 9030.00000000
+     BOTTOM PRICE: 9015.69
+       SELL COUNT: 1
+  PRICE CHANGE UP: 136.6200000000008
+PRICE CHANGE DOWN: 113.15999999999985
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 12:09:00 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 6.7
+       5MIN SLOPE: -38.1
+      15MIN SLOPE: -59.3
+      30MIN SLOPE: -61.4
+        1HR SLOPE: -44.5
+        2HR SLOPE: -26.3
+        3HR SLOPE: -40.2
+        4HR SLOPE: -50.8
+    1HR AVG SLOPE: -53.0
+    2HR AVG SLOPE: -35.4
+    3HR AVG SLOPE: -37.0
+    4HR AVG SLOPE: -40.5
+
+     TICKER PRICE: 8979.34
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 8979.34
+       PRICE DIFF: 10.819999999999709
+        SINK RATE: 0
+       PEAK PRICE: 8990.15000000
+     BOTTOM PRICE: 8943.02
+       SELL COUNT: 0
+  PRICE CHANGE UP: 85.95000000000073
+PRICE CHANGE DOWN: 194.67000000000007
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 1:23:16 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -17.6
+       5MIN SLOPE: -30.6
+      15MIN SLOPE: -48.1
+      30MIN SLOPE: -39.3
+        1HR SLOPE: -39.8
+        2HR SLOPE: -76.7
+        3HR SLOPE: -69.0
+        4HR SLOPE: -71.4
+    1HR AVG SLOPE: -39.5
+    2HR AVG SLOPE: -58.3
+    3HR AVG SLOPE: -61.8
+    4HR AVG SLOPE: -64.2
+
+     TICKER PRICE: 8798.98
+           PROFIT: -2.260000000000005
+        BUY_PRICE: 8798.98
+       PRICE DIFF: 49.98999999999978
+        SINK RATE: 0
+       PEAK PRICE: 8849.99000000
+     BOTTOM PRICE: 8800
+       SELL COUNT: 1
+  PRICE CHANGE UP: 2.0599999999994907
+PRICE CHANGE DOWN: 374
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 3:51:36 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 14.9
+       5MIN SLOPE: 19.0
+      15MIN SLOPE: 3.2
+      30MIN SLOPE: 1.7
+        1HR SLOPE: 17.3
+        2HR SLOPE: 38.0
+        3HR SLOPE: 5.9
+        4HR SLOPE: -68.8
+    1HR AVG SLOPE: 9.5
+    2HR AVG SLOPE: 27.6
+    3HR AVG SLOPE: 20.4
+    4HR AVG SLOPE: -1.9
+
+     TICKER PRICE: 8917.72
+           PROFIT: -2.260000000000005
+        BUY_PRICE: 8917.72
+       PRICE DIFF: 5.479999999999563
+        SINK RATE: 0
+       PEAK PRICE: 8920.50000000
+     BOTTOM PRICE: 8885
+       SELL COUNT: 0
+  PRICE CHANGE UP: 170.02000000000044
+PRICE CHANGE DOWN: 258.97999999999956
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 5:24:36 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.3
+       5MIN SLOPE: -1.9
+      15MIN SLOPE: 12.0
+      30MIN SLOPE: 32.6
+        1HR SLOPE: 10.2
+        2HR SLOPE: -2.2
+        3HR SLOPE: 32.0
+        4HR SLOPE: 62.6
+    1HR AVG SLOPE: 21.4
+    2HR AVG SLOPE: 4.0
+    3HR AVG SLOPE: 13.3
+    4HR AVG SLOPE: 25.6
+
+     TICKER PRICE: 8928.89
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8928.89
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8928.88000000
+     BOTTOM PRICE: 8863.29
+       SELL COUNT: 1
+  PRICE CHANGE UP: 183.8799999999992
+PRICE CHANGE DOWN: 245.1200000000008
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 6:38:19 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 4.7
+       5MIN SLOPE: -4.9
+      15MIN SLOPE: -11.3
+      30MIN SLOPE: -8.4
+        1HR SLOPE: -22.9
+        2HR SLOPE: -12.5
+        3HR SLOPE: -14.9
+        4HR SLOPE: -9.4
+    1HR AVG SLOPE: -15.6
+    2HR AVG SLOPE: -17.7
+    3HR AVG SLOPE: -16.8
+    4HR AVG SLOPE: -14.9
+
+     TICKER PRICE: 8888.32
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8888.32
+       PRICE DIFF: 0.32999999999992724
+        SINK RATE: 0
+       PEAK PRICE: 8888.33000000
+     BOTTOM PRICE: 8864.76
+       SELL COUNT: 0
+  PRICE CHANGE UP: 143
+PRICE CHANGE DOWN: 286
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 6:44:28 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 6.4
+       5MIN SLOPE: 7.5
+      15MIN SLOPE: -10.9
+      30MIN SLOPE: -15.4
+        1HR SLOPE: -9.8
+        2HR SLOPE: -0.0
+        3HR SLOPE: -0.7
+        4HR SLOPE: -0.6
+    1HR AVG SLOPE: -12.6
+    2HR AVG SLOPE: -4.9
+    3HR AVG SLOPE: -3.5
+    4HR AVG SLOPE: -2.8
+
+     TICKER PRICE: 8900.01
+           PROFIT: 0.14000000000000057
+        BUY_PRICE: 8900.01
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8900.00000000
+     BOTTOM PRICE: 8864.76
+       SELL COUNT: 1
+  PRICE CHANGE UP: 155
+PRICE CHANGE DOWN: 274
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 7:02:06 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.6
+       5MIN SLOPE: -17.1
+      15MIN SLOPE: -36.8
+      30MIN SLOPE: -34.6
+        1HR SLOPE: -38.4
+        2HR SLOPE: -31.9
+        3HR SLOPE: -27.0
+        4HR SLOPE: -28.6
+    1HR AVG SLOPE: -36.5
+    2HR AVG SLOPE: -35.1
+    3HR AVG SLOPE: -32.4
+    4HR AVG SLOPE: -31.5
+
+     TICKER PRICE: 8834.99
+           PROFIT: 0.14000000000000057
+        BUY_PRICE: 8834.99
+       PRICE DIFF: 17.109999999998763
+        SINK RATE: 0
+       PEAK PRICE: 8851.23000000
+     BOTTOM PRICE: 8830.54
+       SELL COUNT: 0
+  PRICE CHANGE UP: 89.1200000000008
+PRICE CHANGE DOWN: 339.8799999999992
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 7:10:28 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 12.6
+       5MIN SLOPE: 4.0
+      15MIN SLOPE: -30.1
+      30MIN SLOPE: -26.2
+        1HR SLOPE: -44.3
+        2HR SLOPE: -36.8
+        3HR SLOPE: -19.5
+        4HR SLOPE: -41.4
+    1HR AVG SLOPE: -35.3
+    2HR AVG SLOPE: -40.5
+    3HR AVG SLOPE: -33.5
+    4HR AVG SLOPE: -35.5
+
+     TICKER PRICE: 8849.07
+           PROFIT: 0.1700000000000017
+        BUY_PRICE: 8849.07
+       PRICE DIFF: -6.539999999999054
+        SINK RATE: 0
+       PEAK PRICE: 8842.52000000
+     BOTTOM PRICE: 8809.96
+       SELL COUNT: 1
+  PRICE CHANGE UP: 104.05999999999949
+PRICE CHANGE DOWN: 324.9400000000005
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 11:50:20 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -2.1
+       5MIN SLOPE: -6.7
+      15MIN SLOPE: -10.9
+      30MIN SLOPE: -40.1
+        1HR SLOPE: -22.7
+        2HR SLOPE: -35.3
+        3HR SLOPE: 29.7
+        4HR SLOPE: 47.4
+    1HR AVG SLOPE: -31.4
+    2HR AVG SLOPE: -29.0
+    3HR AVG SLOPE: -9.4
+    4HR AVG SLOPE: 4.8
+
+     TICKER PRICE: 8994.39
+           PROFIT: 0.1700000000000017
+        BUY_PRICE: 8994.39
+       PRICE DIFF: 5.719999999999345
+        SINK RATE: 0
+       PEAK PRICE: 8997.65000000
+     BOTTOM PRICE: 8987
+       SELL COUNT: 0
+  PRICE CHANGE UP: 246.9300000000003
+PRICE CHANGE DOWN: 182.0699999999997
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/21/2018 11:54:03 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.0
+       5MIN SLOPE: 5.6
+      15MIN SLOPE: -13.3
+      30MIN SLOPE: -27.6
+        1HR SLOPE: -18.3
+        2HR SLOPE: -26.1
+        3HR SLOPE: 32.2
+        4HR SLOPE: 53.5
+    1HR AVG SLOPE: -23.0
+    2HR AVG SLOPE: -22.2
+    3HR AVG SLOPE: -4.1
+    4HR AVG SLOPE: 10.3
+
+     TICKER PRICE: 9006.52
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 9006.52
+       PRICE DIFF: 3.4899999999997817
+        SINK RATE: 0
+       PEAK PRICE: 9010.00000000
+     BOTTOM PRICE: 8987
+       SELL COUNT: 1
+  PRICE CHANGE UP: 261.5100000000002
+PRICE CHANGE DOWN: 167.48999999999978
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 3:25:24 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -7.0
+       5MIN SLOPE: -0.6
+      15MIN SLOPE: -31.5
+      30MIN SLOPE: -37.6
+        1HR SLOPE: -32.1
+        2HR SLOPE: -43.5
+        3HR SLOPE: -36.0
+        4HR SLOPE: -49.2
+    1HR AVG SLOPE: -34.9
+    2HR AVG SLOPE: -37.8
+    3HR AVG SLOPE: -37.2
+    4HR AVG SLOPE: -40.2
+
+     TICKER PRICE: 8950.04000000
+           PROFIT: 0
+        BUY_PRICE: 8950.04000000
+       PRICE DIFF: 15.989999999999782
+        SINK RATE: 0
+       PEAK PRICE: 8960.99000000
+     BOTTOM PRICE: 8945
+       SELL COUNT: 0
+  PRICE CHANGE UP: 14.540000000000873
+PRICE CHANGE DOWN: 91
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/22/2018 4:01:21 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 2.0
+       5MIN SLOPE: -0.2
+      15MIN SLOPE: 24.8
+      30MIN SLOPE: 7.3
+        1HR SLOPE: -19.7
+        2HR SLOPE: -23.2
+        3HR SLOPE: -30.6
+        4HR SLOPE: -30.6
+    1HR AVG SLOPE: -6.2
+    2HR AVG SLOPE: -21.4
+    3HR AVG SLOPE: -24.5
+    4HR AVG SLOPE: -26.0
+
+     TICKER PRICE: 8966.88000000
+           PROFIT: 0.18999999999999773
+        BUY_PRICE: 8966.88000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8972.25000000
+     BOTTOM PRICE: 8963.47
+       SELL COUNT: 1
+  PRICE CHANGE UP: 56.79999999999927
+PRICE CHANGE DOWN: 63.75
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 7:30:15 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 10.1
+       5MIN SLOPE: 7.8
+      15MIN SLOPE: 1.0
+      30MIN SLOPE: -12.9
+        1HR SLOPE: 22.4
+        2HR SLOPE: -53.3
+        3HR SLOPE: -72.5
+        4HR SLOPE: -68.8
+    1HR AVG SLOPE: 4.7
+    2HR AVG SLOPE: -15.4
+    3HR AVG SLOPE: -34.5
+    4HR AVG SLOPE: -43.0
+
+     TICKER PRICE: 8710.08000000
+           PROFIT: 0.18999999999999773
+        BUY_PRICE: 8710.08000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8710.09000000
+     BOTTOM PRICE: 8694.54
+       SELL COUNT: 0
+  PRICE CHANGE UP: 40.07999999999993
+PRICE CHANGE DOWN: 325.9200000000001
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 7:54:29 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.7
+       5MIN SLOPE: -6.6
+      15MIN SLOPE: -22.5
+      30MIN SLOPE: -4.7
+        1HR SLOPE: -29.4
+        2HR SLOPE: -38.2
+        3HR SLOPE: -73.3
+        4HR SLOPE: -71.9
+    1HR AVG SLOPE: -17.1
+    2HR AVG SLOPE: -33.8
+    3HR AVG SLOPE: -47.0
+    4HR AVG SLOPE: -53.2
+
+     TICKER PRICE: 8710.08000000
+           PROFIT: 0.18999999999999773
+        BUY_PRICE: 8710.08000000
+       PRICE DIFF: 2.2999999999992724
+        SINK RATE: 0
+       PEAK PRICE: 8693.30000000
+     BOTTOM PRICE: 8689.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 21
+PRICE CHANGE DOWN: 345
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 8:18:06 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 3.9
+       5MIN SLOPE: 10.5
+      15MIN SLOPE: 37.2
+      30MIN SLOPE: 9.8
+        1HR SLOPE: 11.6
+        2HR SLOPE: -2.5
+        3HR SLOPE: -72.3
+        4HR SLOPE: -71.7
+    1HR AVG SLOPE: 10.7
+    2HR AVG SLOPE: 4.5
+    3HR AVG SLOPE: -21.1
+    4HR AVG SLOPE: -33.7
+
+     TICKER PRICE: 8719.97000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 8719.97000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8720.00000000
+     BOTTOM PRICE: 8716.12
+       SELL COUNT: 1
+  PRICE CHANGE UP: 91
+PRICE CHANGE DOWN: 316
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 9:21:05 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 4.6
+       5MIN SLOPE: 10.4
+      15MIN SLOPE: 11.0
+      30MIN SLOPE: -11.7
+        1HR SLOPE: 0.5
+        2HR SLOPE: 15.8
+        3HR SLOPE: 15.8
+        4HR SLOPE: -71.8
+    1HR AVG SLOPE: -5.6
+    2HR AVG SLOPE: 8.2
+    3HR AVG SLOPE: 10.7
+    4HR AVG SLOPE: -9.9
+
+     TICKER PRICE: 8719.99000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 8719.99000000
+       PRICE DIFF: 3.0499999999992724
+        SINK RATE: 0
+       PEAK PRICE: 8720.00000000
+     BOTTOM PRICE: 8688.2
+       SELL COUNT: 0
+  PRICE CHANGE UP: 87.95000000000073
+PRICE CHANGE DOWN: 319.0499999999993
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 5:41:05 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -0.0
+       5MIN SLOPE: -0.0
+      15MIN SLOPE: 18.5
+      30MIN SLOPE: 41.2
+        1HR SLOPE: 21.4
+        2HR SLOPE: 21.4
+        3HR SLOPE: -13.2
+        4HR SLOPE: 9.1
+    1HR AVG SLOPE: 31.3
+    2HR AVG SLOPE: 21.4
+    3HR AVG SLOPE: 9.9
+    4HR AVG SLOPE: 9.7
+
+     TICKER PRICE: undefined
+           PROFIT: -1.4070982679049966
+        BUY_PRICE: undefined
+       PRICE DIFF: 4.369999999998981
+        SINK RATE: 0
+       PEAK PRICE: 8623.15000000
+     BOTTOM PRICE: 8618.78
+       SELL COUNT: 1
+  PRICE CHANGE UP: 151.51000000000022
+PRICE CHANGE DOWN: 417.21999999999935
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/22/2018 11:31:44 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 8.1
+       5MIN SLOPE: 24.8
+      15MIN SLOPE: 9.4
+      30MIN SLOPE: 9.4
+        1HR SLOPE: 4.0
+        2HR SLOPE: -63.2
+        3HR SLOPE: -71.7
+        4HR SLOPE: -75.1
+    1HR AVG SLOPE: 6.7
+    2HR AVG SLOPE: -29.6
+    3HR AVG SLOPE: -43.6
+    4HR AVG SLOPE: -51.5
+
+     TICKER PRICE: 8418.99000000
+           PROFIT: 0
+        BUY_PRICE: 8418.99000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8419.00000000
+     BOTTOM PRICE: 8389.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 75.95999999999913
+PRICE CHANGE DOWN: 204.01000000000022
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/23/2018 12:20:19 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 2.9
+       5MIN SLOPE: 4.2
+      15MIN SLOPE: 32.7
+      30MIN SLOPE: 26.5
+        1HR SLOPE: 42.4
+        2HR SLOPE: -21.7
+        3HR SLOPE: -61.7
+        4HR SLOPE: -70.7
+    1HR AVG SLOPE: 34.5
+    2HR AVG SLOPE: 10.3
+    3HR AVG SLOPE: -13.7
+    4HR AVG SLOPE: -27.9
+
+     TICKER PRICE: 8454.29000000
+           PROFIT: 0.4200000000000017
+        BUY_PRICE: 8454.29000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8455.00000000
+     BOTTOM PRICE: 8400
+       SELL COUNT: 1
+  PRICE CHANGE UP: 111.96999999999935
+PRICE CHANGE DOWN: 168
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 12:57:33 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 11.5
+      15MIN SLOPE: -0.3
+      30MIN SLOPE: -14.2
+        1HR SLOPE: 13.3
+        2HR SLOPE: 1.9
+        3HR SLOPE: -66.9
+        4HR SLOPE: -71.9
+    1HR AVG SLOPE: -0.4
+    2HR AVG SLOPE: 7.6
+    3HR AVG SLOPE: -17.2
+    4HR AVG SLOPE: -30.9
+
+     TICKER PRICE: 8421.84000000
+           PROFIT: 0.4200000000000017
+        BUY_PRICE: 8421.84000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8421.85000000
+     BOTTOM PRICE: 8374.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 78.80999999999949
+PRICE CHANGE DOWN: 201.15999999999985
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 4:12:17 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 12.0
+       5MIN SLOPE: 16.5
+      15MIN SLOPE: 34.0
+      30MIN SLOPE: 19.6
+        1HR SLOPE: 24.3
+        2HR SLOPE: 0.8
+        3HR SLOPE: 28.1
+        4HR SLOPE: -1.4
+    1HR AVG SLOPE: 22.0
+    2HR AVG SLOPE: 12.6
+    3HR AVG SLOPE: 17.7
+    4HR AVG SLOPE: 13.0
+
+     TICKER PRICE: 8441.15000000
+           PROFIT: 0.23000000000000398
+        BUY_PRICE: 8441.15000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8445.02000000
+     BOTTOM PRICE: 8382
+       SELL COUNT: 1
+  PRICE CHANGE UP: 101.98999999999978
+PRICE CHANGE DOWN: 177.97999999999956
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 6:32:08 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 16.0
+       5MIN SLOPE: 15.4
+      15MIN SLOPE: 15.6
+      30MIN SLOPE: -10.5
+        1HR SLOPE: -23.7
+        2HR SLOPE: -3.9
+        3HR SLOPE: 47.1
+        4HR SLOPE: 37.2
+    1HR AVG SLOPE: -17.1
+    2HR AVG SLOPE: -13.8
+    3HR AVG SLOPE: 6.5
+    4HR AVG SLOPE: 14.2
+
+     TICKER PRICE: 8474.30000000
+           PROFIT: 0.23000000000000398
+        BUY_PRICE: 8474.30000000
+       PRICE DIFF: 13.170000000000073
+        SINK RATE: 0
+       PEAK PRICE: 8487.47000000
+     BOTTOM PRICE: 8450
+       SELL COUNT: 0
+  PRICE CHANGE UP: 131.26999999999862
+PRICE CHANGE DOWN: 148.70000000000073
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 7:55:53 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -7.6
+       5MIN SLOPE: 14.3
+      15MIN SLOPE: 11.0
+      30MIN SLOPE: 16.8
+        1HR SLOPE: 9.1
+        2HR SLOPE: -15.4
+        3HR SLOPE: 6.4
+        4HR SLOPE: 46.4
+    1HR AVG SLOPE: 12.9
+    2HR AVG SLOPE: -3.2
+    3HR AVG SLOPE: 0.0
+    4HR AVG SLOPE: 11.6
+
+     TICKER PRICE: 8485.59000000
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 8485.59000000
+       PRICE DIFF: 3.8799999999991996
+        SINK RATE: 0
+       PEAK PRICE: 8496.90000000
+     BOTTOM PRICE: 8485.58
+       SELL COUNT: 1
+  PRICE CHANGE UP: 142.5599999999995
+PRICE CHANGE DOWN: 137.40999999999985
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/23/2018 8:34:28 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.1
+       5MIN SLOPE: 0.1
+      15MIN SLOPE: -18.6
+      30MIN SLOPE: -30.6
+        1HR SLOPE: -10.0
+        2HR SLOPE: -18.9
+        3HR SLOPE: -33.0
+        4HR SLOPE: -21.9
+    1HR AVG SLOPE: -20.3
+    2HR AVG SLOPE: -14.4
+    3HR AVG SLOPE: -20.6
+    4HR AVG SLOPE: -20.9
+
+     TICKER PRICE: 8445.12000000
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 8445.12000000
+       PRICE DIFF: 65.53000000000065
+        SINK RATE: 0
+       PEAK PRICE: 8509.99000000
+     BOTTOM PRICE: 8444.46
+       SELL COUNT: 0
+  PRICE CHANGE UP: 101.42999999999847
+PRICE CHANGE DOWN: 178.54000000000087
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/23/2018 10:37:51 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 11.2
+       5MIN SLOPE: 24.9
+      15MIN SLOPE: 35.7
+      30MIN SLOPE: 25.2
+        1HR SLOPE: 62.8
+        2HR SLOPE: 29.4
+        3HR SLOPE: 1.8
+        4HR SLOPE: 11.2
+    1HR AVG SLOPE: 44.0
+    2HR AVG SLOPE: 46.1
+    3HR AVG SLOPE: 31.3
+    4HR AVG SLOPE: 26.3
+
+     TICKER PRICE: 8455.01000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8455.01000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8473.00000000
+     BOTTOM PRICE: 8432.52
+       SELL COUNT: 1
+  PRICE CHANGE UP: 192.95999999999913
+PRICE CHANGE DOWN: 150
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 11:52:38 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 11.8
+       5MIN SLOPE: 29.8
+      15MIN SLOPE: 6.2
+      30MIN SLOPE: 8.2
+        1HR SLOPE: 32.6
+        2HR SLOPE: 74.6
+        3HR SLOPE: 73.1
+        4HR SLOPE: 63.1
+    1HR AVG SLOPE: 20.4
+    2HR AVG SLOPE: 53.6
+    3HR AVG SLOPE: 60.1
+    4HR AVG SLOPE: 60.8
+
+     TICKER PRICE: 8634.40000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8634.40000000
+       PRICE DIFF: 4.360000000000582
+        SINK RATE: 0
+       PEAK PRICE: 8634.41000000
+     BOTTOM PRICE: 8580.01
+       SELL COUNT: 0
+  PRICE CHANGE UP: 350.0099999999984
+PRICE CHANGE DOWN: 43.6200000000008
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 2:13:52 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 19.1
+       5MIN SLOPE: 20.6
+      15MIN SLOPE: 19.0
+      30MIN SLOPE: 9.5
+        1HR SLOPE: 15.3
+        2HR SLOPE: 17.4
+        3HR SLOPE: -5.4
+        4HR SLOPE: 68.5
+    1HR AVG SLOPE: 12.4
+    2HR AVG SLOPE: 16.4
+    3HR AVG SLOPE: 9.1
+    4HR AVG SLOPE: 24.0
+
+     TICKER PRICE: 8650.00000000
+           PROFIT: 0.18000000000000682
+        BUY_PRICE: 8650.00000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8650.00000000
+     BOTTOM PRICE: 8619.99
+       SELL COUNT: 1
+  PRICE CHANGE UP: 369.9599999999991
+PRICE CHANGE DOWN: 23.670000000000073
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 2:53:10 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 4.2
+       5MIN SLOPE: 8.4
+      15MIN SLOPE: -34.9
+      30MIN SLOPE: -44.1
+        1HR SLOPE: -22.1
+        2HR SLOPE: -13.0
+        3HR SLOPE: -24.6
+        4HR SLOPE: 3.3
+    1HR AVG SLOPE: -33.1
+    2HR AVG SLOPE: -17.6
+    3HR AVG SLOPE: -19.9
+    4HR AVG SLOPE: -14.1
+
+     TICKER PRICE: 8595.00000000
+           PROFIT: 0.18000000000000682
+        BUY_PRICE: 8595.00000000
+       PRICE DIFF: 4.969999999999345
+        SINK RATE: 0
+       PEAK PRICE: 8595.01000000
+     BOTTOM PRICE: 8588.7
+       SELL COUNT: 0
+  PRICE CHANGE UP: 310
+PRICE CHANGE DOWN: 109.95999999999913
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 2:58:01 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -2.9
+       5MIN SLOPE: 9.3
+      15MIN SLOPE: -13.6
+      30MIN SLOPE: -38.3
+        1HR SLOPE: -7.4
+        2HR SLOPE: -20.9
+        3HR SLOPE: -7.2
+        4HR SLOPE: 24.4
+    1HR AVG SLOPE: -22.8
+    2HR AVG SLOPE: -14.1
+    3HR AVG SLOPE: -11.8
+    4HR AVG SLOPE: -2.8
+
+     TICKER PRICE: 8609.11000000
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8609.11000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8609.20000000
+     BOTTOM PRICE: 8588.2
+       SELL COUNT: 1
+  PRICE CHANGE UP: 329.15999999999985
+PRICE CHANGE DOWN: 90.79999999999927
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 4:32:15 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 12.2
+       5MIN SLOPE: 11.7
+      15MIN SLOPE: -5.9
+      30MIN SLOPE: 4.1
+        1HR SLOPE: -5.2
+        2HR SLOPE: -44.0
+        3HR SLOPE: -23.5
+        4HR SLOPE: -5.9
+    1HR AVG SLOPE: -0.6
+    2HR AVG SLOPE: -24.6
+    3HR AVG SLOPE: -24.2
+    4HR AVG SLOPE: -19.7
+
+     TICKER PRICE: 8591.16000000
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8591.16000000
+       PRICE DIFF: 4.809999999999491
+        SINK RATE: 0
+       PEAK PRICE: 8594.50000000
+     BOTTOM PRICE: 8569.25
+       SELL COUNT: 0
+  PRICE CHANGE UP: 309.64999999999964
+PRICE CHANGE DOWN: 110.30999999999949
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 4:48:53 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 6.2
+       5MIN SLOPE: 9.8
+      15MIN SLOPE: 12.9
+      30MIN SLOPE: 15.8
+        1HR SLOPE: -8.1
+        2HR SLOPE: 25.9
+        3HR SLOPE: -12.9
+        4HR SLOPE: 2.9
+    1HR AVG SLOPE: 3.9
+    2HR AVG SLOPE: 8.9
+    3HR AVG SLOPE: 1.6
+    4HR AVG SLOPE: 1.9
+
+     TICKER PRICE: 8609.41000000
+           PROFIT: 0.20999999999999375
+        BUY_PRICE: 8609.41000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8610.00000000
+     BOTTOM PRICE: 8580.1
+       SELL COUNT: 1
+  PRICE CHANGE UP: 329.9599999999991
+PRICE CHANGE DOWN: 90
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/23/2018 8:58:50 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 9.2
+       5MIN SLOPE: 11.4
+      15MIN SLOPE: 8.0
+      30MIN SLOPE: 1.6
+        1HR SLOPE: -4.8
+        2HR SLOPE: 70.7
+        3HR SLOPE: 71.1
+        4HR SLOPE: 73.2
+    1HR AVG SLOPE: -1.6
+    2HR AVG SLOPE: 33.0
+    3HR AVG SLOPE: 45.7
+    4HR AVG SLOPE: 52.5
+
+     TICKER PRICE: 8912.50000000
+           PROFIT: 0.20999999999999375
+        BUY_PRICE: 8912.50000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8912.51000000
+     BOTTOM PRICE: 8891
+       SELL COUNT: 0
+  PRICE CHANGE UP: 632.4599999999991
+PRICE CHANGE DOWN: 54.04999999999927
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 12:52:47 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -7.0
+       5MIN SLOPE: 19.9
+      15MIN SLOPE: 12.2
+      30MIN SLOPE: 32.9
+        1HR SLOPE: 32.0
+        2HR SLOPE: 39.6
+        3HR SLOPE: 40.3
+        4HR SLOPE: 26.2
+    1HR AVG SLOPE: 32.5
+    2HR AVG SLOPE: 35.8
+    3HR AVG SLOPE: 37.3
+    4HR AVG SLOPE: 34.5
+
+     TICKER PRICE: 8930.50000000
+           PROFIT: 0.20000000000000284
+        BUY_PRICE: 8930.50000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8935.01000000
+     BOTTOM PRICE: 8902.67
+       SELL COUNT: 1
+  PRICE CHANGE UP: 654.9699999999993
+PRICE CHANGE DOWN: 31.539999999999054
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 2:11:53 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 4.6
+       5MIN SLOPE: 5.6
+      15MIN SLOPE: 11.9
+      30MIN SLOPE: -32.4
+        1HR SLOPE: -26.1
+        2HR SLOPE: -2.0
+        3HR SLOPE: -6.6
+        4HR SLOPE: 17.9
+    1HR AVG SLOPE: -29.3
+    2HR AVG SLOPE: -14.1
+    3HR AVG SLOPE: -11.6
+    4HR AVG SLOPE: -4.2
+
+     TICKER PRICE: 8873.69000000
+           PROFIT: 0.20000000000000284
+        BUY_PRICE: 8873.69000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8873.70000000
+     BOTTOM PRICE: 8840
+       SELL COUNT: 0
+  PRICE CHANGE UP: 593.6499999999996
+PRICE CHANGE DOWN: 92.85999999999876
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 2:41:09 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.3
+       5MIN SLOPE: 0.3
+      15MIN SLOPE: 0.0
+      30MIN SLOPE: 11.8
+        1HR SLOPE: -25.0
+        2HR SLOPE: -19.1
+        3HR SLOPE: 9.0
+        4HR SLOPE: 4.5
+    1HR AVG SLOPE: -6.6
+    2HR AVG SLOPE: -22.1
+    3HR AVG SLOPE: -11.7
+    4HR AVG SLOPE: -7.7
+
+     TICKER PRICE: 8884.50000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8884.50000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8885.00000000
+     BOTTOM PRICE: 8865.92
+       SELL COUNT: 1
+  PRICE CHANGE UP: 604.9599999999991
+PRICE CHANGE DOWN: 81.54999999999927
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 4:12:02 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.1
+       5MIN SLOPE: 4.2
+      15MIN SLOPE: -8.7
+      30MIN SLOPE: -23.5
+        1HR SLOPE: -17.0
+        2HR SLOPE: 12.6
+        3HR SLOPE: -18.8
+        4HR SLOPE: 6.1
+    1HR AVG SLOPE: -20.3
+    2HR AVG SLOPE: -2.2
+    3HR AVG SLOPE: -7.7
+    4HR AVG SLOPE: -4.3
+
+     TICKER PRICE: 8886.33000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8886.33000000
+       PRICE DIFF: 1.3400000000001455
+        SINK RATE: 0
+       PEAK PRICE: 8886.35000000
+     BOTTOM PRICE: 8879.86
+       SELL COUNT: 0
+  PRICE CHANGE UP: 604.9699999999993
+PRICE CHANGE DOWN: 81.53999999999905
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 5:33:12 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 15.7
+      15MIN SLOPE: 13.3
+      30MIN SLOPE: 11.1
+        1HR SLOPE: -0.0
+        2HR SLOPE: -18.6
+        3HR SLOPE: 15.6
+        4HR SLOPE: -8.4
+    1HR AVG SLOPE: 5.5
+    2HR AVG SLOPE: -9.3
+    3HR AVG SLOPE: -1.0
+    4HR AVG SLOPE: -2.9
+
+     TICKER PRICE: 8899.99000000
+           PROFIT: 0.15000000000000568
+        BUY_PRICE: 8899.99000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8899.99000000
+     BOTTOM PRICE: 8874
+       SELL COUNT: 1
+  PRICE CHANGE UP: 619.9399999999987
+PRICE CHANGE DOWN: 66.56999999999971
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 10:10:56 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 1.3
+       5MIN SLOPE: -5.2
+      15MIN SLOPE: 13.1
+      30MIN SLOPE: -0.6
+        1HR SLOPE: 53.4
+        2HR SLOPE: 53.8
+        3HR SLOPE: -31.2
+        4HR SLOPE: -36.3
+    1HR AVG SLOPE: 26.4
+    2HR AVG SLOPE: 53.6
+    3HR AVG SLOPE: 25.3
+    4HR AVG SLOPE: 9.9
+
+     TICKER PRICE: 8858.99000000
+           PROFIT: 0.15000000000000568
+        BUY_PRICE: 8858.99000000
+       PRICE DIFF: 7.639999999999418
+        SINK RATE: 0
+       PEAK PRICE: 8859.00000000
+     BOTTOM PRICE: 8853.11
+       SELL COUNT: 0
+  PRICE CHANGE UP: 571.3199999999997
+PRICE CHANGE DOWN: 115.18999999999869
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 10:38:35 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 3.2
+       5MIN SLOPE: 15.1
+      15MIN SLOPE: 11.5
+      30MIN SLOPE: -5.4
+        1HR SLOPE: 46.7
+        2HR SLOPE: 48.7
+        3HR SLOPE: -14.1
+        4HR SLOPE: -36.3
+    1HR AVG SLOPE: 20.7
+    2HR AVG SLOPE: 47.7
+    3HR AVG SLOPE: 27.1
+    4HR AVG SLOPE: 11.3
+
+     TICKER PRICE: 8875.01000000
+           PROFIT: 0.18000000000000682
+        BUY_PRICE: 8875.01000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8875.23000000
+     BOTTOM PRICE: 8872.35
+       SELL COUNT: 1
+  PRICE CHANGE UP: 595.1899999999987
+PRICE CHANGE DOWN: 91.31999999999971
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 11:51:21 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 7.1
+       5MIN SLOPE: 10.2
+      15MIN SLOPE: -13.1
+      30MIN SLOPE: -22.0
+        1HR SLOPE: 41.1
+        2HR SLOPE: 69.2
+        3HR SLOPE: 63.8
+        4HR SLOPE: -36.3
+    1HR AVG SLOPE: 9.6
+    2HR AVG SLOPE: 55.2
+    3HR AVG SLOPE: 58.0
+    4HR AVG SLOPE: 34.5
+
+     TICKER PRICE: 8941.14000000
+           PROFIT: 0.18000000000000682
+        BUY_PRICE: 8941.14000000
+       PRICE DIFF: 2.9899999999997817
+        SINK RATE: 0
+       PEAK PRICE: 8944.00000000
+     BOTTOM PRICE: 8920.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 660.9699999999993
+PRICE CHANGE DOWN: 57.98999999999978
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 11:51:21 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 7.1
+       5MIN SLOPE: 10.2
+      15MIN SLOPE: -13.1
+      30MIN SLOPE: -22.0
+        1HR SLOPE: 41.1
+        2HR SLOPE: 69.2
+        3HR SLOPE: 63.8
+        4HR SLOPE: -36.3
+    1HR AVG SLOPE: 9.6
+    2HR AVG SLOPE: 55.2
+    3HR AVG SLOPE: 58.0
+    4HR AVG SLOPE: 34.5
+
+     TICKER PRICE: 8941.14000000
+           PROFIT: 0.18000000000000682
+        BUY_PRICE: 8941.14000000
+       PRICE DIFF: 2.9899999999997817
+        SINK RATE: 0
+       PEAK PRICE: 8944.00000000
+     BOTTOM PRICE: 8920.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 660.9699999999993
+PRICE CHANGE DOWN: 57.98999999999978
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 5:24:42 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -9.4
+       5MIN SLOPE: -42.2
+      15MIN SLOPE: -65.3
+      30MIN SLOPE: -68.3
+        1HR SLOPE: -69.6
+        2HR SLOPE: -68.8
+        3HR SLOPE: -67.0
+        4HR SLOPE: -64.0
+    1HR AVG SLOPE: -68.9
+    2HR AVG SLOPE: -69.2
+    3HR AVG SLOPE: -68.5
+    4HR AVG SLOPE: -67.3
+
+     TICKER PRICE: undefined
+           PROFIT: -2.813565781362993
+        BUY_PRICE: undefined
+       PRICE DIFF: 234.95999999999913
+        SINK RATE: 0
+       PEAK PRICE: 8945.99000000
+     BOTTOM PRICE: 8711
+       SELL COUNT: 1
+  PRICE CHANGE UP: 430.9899999999998
+PRICE CHANGE DOWN: 287.96999999999935
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 6:31:33 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 14.2
+       5MIN SLOPE: 24.3
+      15MIN SLOPE: 49.4
+      30MIN SLOPE: 44.3
+        1HR SLOPE: 14.9
+        2HR SLOPE: -68.1
+        3HR SLOPE: -69.3
+        4HR SLOPE: -62.6
+    1HR AVG SLOPE: 29.6
+    2HR AVG SLOPE: -26.6
+    3HR AVG SLOPE: -40.8
+    4HR AVG SLOPE: -46.3
+
+     TICKER PRICE: 8705.00000000
+           PROFIT: -2.813565781362993
+        BUY_PRICE: 8705.00000000
+       PRICE DIFF: 17.969999999999345
+        SINK RATE: 0
+       PEAK PRICE: 8717.97000000
+     BOTTOM PRICE: 8653.97
+       SELL COUNT: 0
+  PRICE CHANGE UP: 419.9599999999991
+PRICE CHANGE DOWN: 299
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 9:18:14 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 11.2
+       5MIN SLOPE: -8.4
+      15MIN SLOPE: 6.6
+      30MIN SLOPE: 1.3
+        1HR SLOPE: 16.2
+        2HR SLOPE: -48.7
+        3HR SLOPE: -43.4
+        4HR SLOPE: -71.4
+    1HR AVG SLOPE: 8.8
+    2HR AVG SLOPE: -16.3
+    3HR AVG SLOPE: -25.3
+    4HR AVG SLOPE: -36.8
+
+     TICKER PRICE: undefined
+           PROFIT: -2.025545359646251
+        BUY_PRICE: undefined
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8549.90000000
+     BOTTOM PRICE: 8533
+       SELL COUNT: 1
+  PRICE CHANGE UP: 269.84999999999854
+PRICE CHANGE DOWN: 449.1100000000006
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 10:03:00 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 6.0
+       5MIN SLOPE: 6.0
+      15MIN SLOPE: -12.7
+      30MIN SLOPE: -16.0
+        1HR SLOPE: 1.5
+        2HR SLOPE: 15.7
+        3HR SLOPE: -34.9
+        4HR SLOPE: -41.7
+    1HR AVG SLOPE: -7.3
+    2HR AVG SLOPE: 8.6
+    3HR AVG SLOPE: -5.9
+    4HR AVG SLOPE: -14.9
+
+     TICKER PRICE: 8535.00000000
+           PROFIT: -2.025545359646251
+        BUY_PRICE: 8535.00000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8543.98000000
+     BOTTOM PRICE: 8508.09
+       SELL COUNT: 0
+  PRICE CHANGE UP: 263.9399999999987
+PRICE CHANGE DOWN: 455.02000000000044
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/24/2018 10:03:34 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 6.0
+       5MIN SLOPE: 6.0
+      15MIN SLOPE: -6.5
+      30MIN SLOPE: -16.0
+        1HR SLOPE: 4.1
+        2HR SLOPE: 15.7
+        3HR SLOPE: -34.9
+        4HR SLOPE: -27.2
+    1HR AVG SLOPE: -6.0
+    2HR AVG SLOPE: 9.9
+    3HR AVG SLOPE: -5.0
+    4HR AVG SLOPE: -10.6
+
+     TICKER PRICE: 8543.97000000
+           PROFIT: -2.025545359646251
+        BUY_PRICE: 8543.97000000
+       PRICE DIFF: 13.979999999999563
+        SINK RATE: 0
+       PEAK PRICE: 8543.98000000
+     BOTTOM PRICE: 8508.09
+       SELL COUNT: 0
+  PRICE CHANGE UP: 249.95999999999913
+PRICE CHANGE DOWN: 469
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/25/2018 1:16:13 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 4.7
+       5MIN SLOPE: -0.2
+      15MIN SLOPE: 21.4
+      30MIN SLOPE: 11.9
+        1HR SLOPE: 23.8
+        2HR SLOPE: 35.7
+        3HR SLOPE: 4.6
+        4HR SLOPE: 11.6
+    1HR AVG SLOPE: 17.9
+    2HR AVG SLOPE: 29.8
+    3HR AVG SLOPE: 21.4
+    4HR AVG SLOPE: 18.9
+
+     TICKER PRICE: 8557.51000000
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8557.51000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8557.86000000
+     BOTTOM PRICE: 8550.4
+       SELL COUNT: 1
+  PRICE CHANGE UP: 277.8199999999997
+PRICE CHANGE DOWN: 441.1399999999994
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 3:07:29 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 0.0
+      15MIN SLOPE: 0.9
+      30MIN SLOPE: -17.3
+        1HR SLOPE: -21.2
+        2HR SLOPE: -9.3
+        3HR SLOPE: -10.0
+        4HR SLOPE: 13.2
+    1HR AVG SLOPE: -19.3
+    2HR AVG SLOPE: -15.3
+    3HR AVG SLOPE: -13.5
+    4HR AVG SLOPE: -6.8
+
+     TICKER PRICE: 8515.98000000
+           PROFIT: 0.1599999999999966
+        BUY_PRICE: 8515.98000000
+       PRICE DIFF: 55.38999999999942
+        SINK RATE: 0
+       PEAK PRICE: 8568.00000000
+     BOTTOM PRICE: 8495
+       SELL COUNT: 0
+  PRICE CHANGE UP: 232.5699999999997
+PRICE CHANGE DOWN: 486.3899999999994
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 4:16:39 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 5.9
+       5MIN SLOPE: 14.7
+      15MIN SLOPE: 40.9
+      30MIN SLOPE: 43.3
+        1HR SLOPE: 41.6
+        2HR SLOPE: -0.7
+        3HR SLOPE: -6.1
+        4HR SLOPE: 17.0
+    1HR AVG SLOPE: 42.5
+    2HR AVG SLOPE: 20.4
+    3HR AVG SLOPE: 11.6
+    4HR AVG SLOPE: 12.9
+
+     TICKER PRICE: 8549.16000000
+           PROFIT: 0.39000000000000057
+        BUY_PRICE: 8549.16000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8550.00000000
+     BOTTOM PRICE: 8536.11
+       SELL COUNT: 1
+  PRICE CHANGE UP: 269.9599999999991
+PRICE CHANGE DOWN: 449
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 5:22:54 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 9.9
+       5MIN SLOPE: 20.5
+      15MIN SLOPE: 1.7
+      30MIN SLOPE: -10.2
+        1HR SLOPE: -15.9
+        2HR SLOPE: 48.2
+        3HR SLOPE: -25.3
+        4HR SLOPE: -19.6
+    1HR AVG SLOPE: -13.1
+    2HR AVG SLOPE: 16.2
+    3HR AVG SLOPE: 2.3
+    4HR AVG SLOPE: -3.1
+
+     TICKER PRICE: 8527.65000000
+           PROFIT: 0.39000000000000057
+        BUY_PRICE: 8527.65000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8527.66000000
+     BOTTOM PRICE: 8495.83
+       SELL COUNT: 0
+  PRICE CHANGE UP: 247.60999999999876
+PRICE CHANGE DOWN: 471.35000000000036
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 10:31:09 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 14.2
+       5MIN SLOPE: 19.5
+      15MIN SLOPE: 9.5
+      30MIN SLOPE: 7.3
+        1HR SLOPE: 38.7
+        2HR SLOPE: 59.2
+        3HR SLOPE: 55.9
+        4HR SLOPE: 50.3
+    1HR AVG SLOPE: 23.0
+    2HR AVG SLOPE: 49.0
+    3HR AVG SLOPE: 51.3
+    4HR AVG SLOPE: 51.0
+
+     TICKER PRICE: 8561.90000000
+           PROFIT: 0.4000000000000057
+        BUY_PRICE: 8561.90000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8568.77000000
+     BOTTOM PRICE: 8531.65
+       SELL COUNT: 1
+  PRICE CHANGE UP: 288.72999999999956
+PRICE CHANGE DOWN: 430.22999999999956
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 11:25:39 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 6.4
+       5MIN SLOPE: 3.3
+      15MIN SLOPE: -36.9
+      30MIN SLOPE: -41.3
+        1HR SLOPE: -20.2
+        2HR SLOPE: 7.9
+        3HR SLOPE: 40.3
+        4HR SLOPE: 43.4
+    1HR AVG SLOPE: -30.8
+    2HR AVG SLOPE: -6.1
+    3HR AVG SLOPE: 9.3
+    4HR AVG SLOPE: 17.9
+
+     TICKER PRICE: 8507.20000000
+           PROFIT: 0.4000000000000057
+        BUY_PRICE: 8507.20000000
+       PRICE DIFF: 6.179999999998472
+        SINK RATE: 0
+       PEAK PRICE: 8507.22000000
+     BOTTOM PRICE: 8501.04
+       SELL COUNT: 0
+  PRICE CHANGE UP: 221
+PRICE CHANGE DOWN: 497.9599999999991
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 12:10:21 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 21.5
+      15MIN SLOPE: 24.9
+      30MIN SLOPE: 27.0
+        1HR SLOPE: -26.6
+        2HR SLOPE: -2.3
+        3HR SLOPE: 21.9
+        4HR SLOPE: 40.8
+    1HR AVG SLOPE: 0.2
+    2HR AVG SLOPE: -14.5
+    3HR AVG SLOPE: -2.3
+    4HR AVG SLOPE: 8.4
+
+     TICKER PRICE: 8528.52000000
+           PROFIT: 0.25
+        BUY_PRICE: 8528.52000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8532.00000000
+     BOTTOM PRICE: 8528.5
+       SELL COUNT: 1
+  PRICE CHANGE UP: 251.95999999999913
+PRICE CHANGE DOWN: 467
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 1:54:07 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: -2.0
+      15MIN SLOPE: -17.0
+      30MIN SLOPE: -31.5
+        1HR SLOPE: -31.5
+        2HR SLOPE: 4.7
+        3HR SLOPE: -45.4
+        4HR SLOPE: -37.8
+    1HR AVG SLOPE: -31.5
+    2HR AVG SLOPE: -13.4
+    3HR AVG SLOPE: -24.1
+    4HR AVG SLOPE: -27.5
+
+     TICKER PRICE: 8496.00000000
+           PROFIT: 0.25
+        BUY_PRICE: 8496.00000000
+       PRICE DIFF: 8.959999999999127
+        SINK RATE: 0
+       PEAK PRICE: 8499.96000000
+     BOTTOM PRICE: 8491
+       SELL COUNT: 0
+  PRICE CHANGE UP: 210.95999999999913
+PRICE CHANGE DOWN: 508
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/25/2018 2:00:17 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 21.7
+      15MIN SLOPE: 1.7
+      30MIN SLOPE: -5.7
+        1HR SLOPE: -9.9
+        2HR SLOPE: 24.1
+        3HR SLOPE: -19.4
+        4HR SLOPE: -18.1
+    1HR AVG SLOPE: -7.8
+    2HR AVG SLOPE: 7.1
+    3HR AVG SLOPE: -1.7
+    4HR AVG SLOPE: -5.8
+
+     TICKER PRICE: 8530.01000000
+           PROFIT: 0.4000000000000057
+        BUY_PRICE: 8530.01000000
+       PRICE DIFF: -2.1599999999998545
+        SINK RATE: 0
+       PEAK PRICE: 8535.30000000
+     BOTTOM PRICE: 8496.77
+       SELL COUNT: 1
+  PRICE CHANGE UP: 257.41999999999825
+PRICE CHANGE DOWN: 461.5400000000009
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/25/2018 3:42:47 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -6.6
+       5MIN SLOPE: -0.3
+      15MIN SLOPE: -19.2
+      30MIN SLOPE: -19.6
+        1HR SLOPE: -11.5
+        2HR SLOPE: 44.0
+        3HR SLOPE: 44.0
+        4HR SLOPE: 54.4
+    1HR AVG SLOPE: -15.6
+    2HR AVG SLOPE: 16.3
+    3HR AVG SLOPE: 25.5
+    4HR AVG SLOPE: 32.7
+
+     TICKER PRICE: 8619.61000000
+           PROFIT: 0.4000000000000057
+        BUY_PRICE: 8619.61000000
+       PRICE DIFF: 14.6299999999992
+        SINK RATE: 0
+       PEAK PRICE: 8619.63000000
+     BOTTOM PRICE: 8605
+       SELL COUNT: 0
+  PRICE CHANGE UP: 324.9599999999991
+PRICE CHANGE DOWN: 394
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/25/2018 5:45:33 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 4.7
+       5MIN SLOPE: 16.1
+      15MIN SLOPE: 19.3
+      30MIN SLOPE: 19.2
+        1HR SLOPE: 38.3
+        2HR SLOPE: 12.9
+        3HR SLOPE: 8.6
+        4HR SLOPE: 49.9
+    1HR AVG SLOPE: 28.8
+    2HR AVG SLOPE: 25.6
+    3HR AVG SLOPE: 19.9
+    4HR AVG SLOPE: 27.4
+
+     TICKER PRICE: 8630.01000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8630.01000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8630.43000000
+     BOTTOM PRICE: 8589
+       SELL COUNT: 1
+  PRICE CHANGE UP: 350.3899999999994
+PRICE CHANGE DOWN: 368.5699999999997
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/25/2018 6:30:08 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 5.7
+       5MIN SLOPE: 12.6
+      15MIN SLOPE: 13.0
+      30MIN SLOPE: -4.4
+        1HR SLOPE: 13.2
+        2HR SLOPE: 34.8
+        3HR SLOPE: -9.8
+        4HR SLOPE: 6.6
+    1HR AVG SLOPE: 4.4
+    2HR AVG SLOPE: 24.0
+    3HR AVG SLOPE: 12.7
+    4HR AVG SLOPE: 11.2
+
+     TICKER PRICE: 8619.99000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8619.99000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8620.00000000
+     BOTTOM PRICE: 8577.64
+       SELL COUNT: 0
+  PRICE CHANGE UP: 339.9499999999989
+PRICE CHANGE DOWN: 379.0100000000002
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/25/2018 9:16:49 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 3.0
+       5MIN SLOPE: 3.3
+      15MIN SLOPE: 22.6
+      30MIN SLOPE: -10.2
+        1HR SLOPE: -35.0
+        2HR SLOPE: 15.3
+        3HR SLOPE: -64.2
+        4HR SLOPE: -64.2
+    1HR AVG SLOPE: -22.6
+    2HR AVG SLOPE: -9.8
+    3HR AVG SLOPE: -28.0
+    4HR AVG SLOPE: -37.0
+
+     TICKER PRICE: undefined
+           PROFIT: -2.4943735110765
+        BUY_PRICE: undefined
+       PRICE DIFF: 0.3500000000003638
+        SINK RATE: 0
+       PEAK PRICE: 8426.34000000
+     BOTTOM PRICE: 8384.87
+       SELL COUNT: 1
+  PRICE CHANGE UP: 145.9499999999989
+PRICE CHANGE DOWN: 573.0100000000002
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 3:30:16 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 8.6
+       5MIN SLOPE: -2.8
+      15MIN SLOPE: -11.4
+      30MIN SLOPE: -24.9
+        1HR SLOPE: -24.9
+        2HR SLOPE: -24.9
+        3HR SLOPE: -37.9
+        4HR SLOPE: -29.7
+    1HR AVG SLOPE: -24.9
+    2HR AVG SLOPE: -24.9
+    3HR AVG SLOPE: -29.2
+    4HR AVG SLOPE: -29.3
+
+     TICKER PRICE: 8404.99000000
+           PROFIT: -2.4943735110765
+        BUY_PRICE: 8404.99000000
+       PRICE DIFF: 5.890000000001237
+        SINK RATE: 0
+       PEAK PRICE: 8405.94000000
+     BOTTOM PRICE: 8393.25
+       SELL COUNT: 0
+  PRICE CHANGE UP: 120.0099999999984
+PRICE CHANGE DOWN: 598.9500000000007
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 3:52:31 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 4.2
+       5MIN SLOPE: 6.5
+      15MIN SLOPE: 1.8
+      30MIN SLOPE: -4.4
+        1HR SLOPE: -19.9
+        2HR SLOPE: -35.2
+        3HR SLOPE: -19.9
+        4HR SLOPE: -14.8
+    1HR AVG SLOPE: -12.1
+    2HR AVG SLOPE: -27.6
+    3HR AVG SLOPE: -25.0
+    4HR AVG SLOPE: -22.4
+
+     TICKER PRICE: 8414.56000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 8414.56000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8416.48000000
+     BOTTOM PRICE: 8393.25
+       SELL COUNT: 1
+  PRICE CHANGE UP: 136.4399999999987
+PRICE CHANGE DOWN: 582.5200000000004
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 5:13:25 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.0
+       5MIN SLOPE: 17.5
+      15MIN SLOPE: -26.7
+      30MIN SLOPE: -35.7
+        1HR SLOPE: -39.1
+        2HR SLOPE: -41.1
+        3HR SLOPE: -47.2
+        4HR SLOPE: -49.9
+    1HR AVG SLOPE: -37.4
+    2HR AVG SLOPE: -40.1
+    3HR AVG SLOPE: -42.5
+    4HR AVG SLOPE: -44.3
+
+     TICKER PRICE: 8349.99000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 8349.99000000
+       PRICE DIFF: 4.709999999999127
+        SINK RATE: 0
+       PEAK PRICE: 8350.00000000
+     BOTTOM PRICE: 8345.29
+       SELL COUNT: 0
+  PRICE CHANGE UP: 65.25
+PRICE CHANGE DOWN: 653.7099999999991
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 8:00:06 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 9.8
+       5MIN SLOPE: -7.7
+      15MIN SLOPE: -12.1
+      30MIN SLOPE: 10.5
+        1HR SLOPE: -50.2
+        2HR SLOPE: -67.4
+        3HR SLOPE: -74.3
+        4HR SLOPE: -75.2
+    1HR AVG SLOPE: -19.9
+    2HR AVG SLOPE: -58.8
+    3HR AVG SLOPE: -64.0
+    4HR AVG SLOPE: -66.8
+
+     TICKER PRICE: undefined
+           PROFIT: -3.192634376797003
+        BUY_PRICE: undefined
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 8103.99000000
+     BOTTOM PRICE: 8090
+       SELL COUNT: 1
+  PRICE CHANGE UP: 36.099999999999454
+PRICE CHANGE DOWN: 895.0200000000004
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 8:26:27 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 14.0
+       5MIN SLOPE: 29.8
+      15MIN SLOPE: 49.4
+      30MIN SLOPE: 20.4
+        1HR SLOPE: 4.4
+        2HR SLOPE: -67.5
+        3HR SLOPE: -66.1
+        4HR SLOPE: -74.1
+    1HR AVG SLOPE: 12.4
+    2HR AVG SLOPE: -31.6
+    3HR AVG SLOPE: -43.1
+    4HR AVG SLOPE: -50.8
+
+     TICKER PRICE: 8120.25000000
+           PROFIT: -3.192634376797003
+        BUY_PRICE: 8120.25000000
+       PRICE DIFF: 4.020000000000437
+        SINK RATE: 0
+       PEAK PRICE: 8120.26000000
+     BOTTOM PRICE: 8119
+       SELL COUNT: 0
+  PRICE CHANGE UP: 96.23999999999978
+PRICE CHANGE DOWN: 882.7600000000002
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 8:43:03 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 8.6
+       5MIN SLOPE: 7.0
+      15MIN SLOPE: 9.6
+      30MIN SLOPE: 46.3
+        1HR SLOPE: 7.0
+        2HR SLOPE: -62.8
+        3HR SLOPE: -67.0
+        4HR SLOPE: -74.1
+    1HR AVG SLOPE: 26.6
+    2HR AVG SLOPE: -27.9
+    3HR AVG SLOPE: -40.9
+    4HR AVG SLOPE: -49.2
+
+     TICKER PRICE: 8130.05000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8130.05000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 8135.88000000
+     BOTTOM PRICE: 8126.06
+       SELL COUNT: 1
+  PRICE CHANGE UP: 115.88000000000011
+PRICE CHANGE DOWN: 863.1199999999999
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/26/2018 9:09:52 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.0
+       5MIN SLOPE: 2.0
+      15MIN SLOPE: 13.2
+      30MIN SLOPE: 1.6
+        1HR SLOPE: 47.1
+        2HR SLOPE: -44.2
+        3HR SLOPE: -65.6
+        4HR SLOPE: -68.9
+    1HR AVG SLOPE: 24.4
+    2HR AVG SLOPE: 1.4
+    3HR AVG SLOPE: -20.9
+    4HR AVG SLOPE: -32.9
+
+     TICKER PRICE: 8119.98000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 8119.98000000
+       PRICE DIFF: 0.020000000000436557
+        SINK RATE: 0
+       PEAK PRICE: 8120.00000000
+     BOTTOM PRICE: 8088
+       SELL COUNT: 0
+  PRICE CHANGE UP: 99.97999999999956
+PRICE CHANGE DOWN: 879.0200000000004
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/27/2018 7:22:35 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 9.7
+       5MIN SLOPE: 10.5
+      15MIN SLOPE: -27.6
+      30MIN SLOPE: -9.5
+        1HR SLOPE: -8.0
+        2HR SLOPE: -42.0
+        3HR SLOPE: 17.0
+        4HR SLOPE: 14.6
+    1HR AVG SLOPE: -8.8
+    2HR AVG SLOPE: -25.0
+    3HR AVG SLOPE: -11.0
+    4HR AVG SLOPE: -4.6
+
+     TICKER PRICE: 7918.58000000
+           PROFIT: 0
+        BUY_PRICE: 7918.58000000
+       PRICE DIFF: 0.5
+        SINK RATE: 0
+       PEAK PRICE: 7919.00000000
+     BOTTOM PRICE: 7904.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 27.949999999999818
+PRICE CHANGE DOWN: 67.11999999999989
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/27/2018 10:09:15 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.3
+       5MIN SLOPE: 6.7
+      15MIN SLOPE: 0.3
+      30MIN SLOPE: 0.3
+        1HR SLOPE: -11.2
+        2HR SLOPE: 13.9
+        3HR SLOPE: -60.8
+        4HR SLOPE: -62.5
+    1HR AVG SLOPE: -5.4
+    2HR AVG SLOPE: 1.4
+    3HR AVG SLOPE: -19.4
+    4HR AVG SLOPE: -30.1
+
+     TICKER PRICE: undefined
+           PROFIT: -1.49687166012425
+        BUY_PRICE: undefined
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 7819.50000000
+     BOTTOM PRICE: 7808.02
+       SELL COUNT: 1
+  PRICE CHANGE UP: 91.72999999999956
+PRICE CHANGE DOWN: 166.1300000000001
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/27/2018 10:45:35 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 10.0
+       5MIN SLOPE: 27.1
+      15MIN SLOPE: -5.2
+      30MIN SLOPE: -16.4
+        1HR SLOPE: 2.8
+        2HR SLOPE: 3.6
+        3HR SLOPE: 19.6
+        4HR SLOPE: -57.8
+    1HR AVG SLOPE: -6.8
+    2HR AVG SLOPE: 3.2
+    3HR AVG SLOPE: 8.7
+    4HR AVG SLOPE: -7.9
+
+     TICKER PRICE: 7809.98000000
+           PROFIT: 0
+        BUY_PRICE: 7809.98000000
+       PRICE DIFF: 10.969999999999345
+        SINK RATE: 0
+       PEAK PRICE: 7814.99000000
+     BOTTOM PRICE: 7760
+       SELL COUNT: 0
+  PRICE CHANGE UP: 44.02000000000044
+PRICE CHANGE DOWN: 20.159999999999854
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/27/2018 11:10:04 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -1.5
+       5MIN SLOPE: -10.4
+      15MIN SLOPE: 25.2
+      30MIN SLOPE: 42.5
+        1HR SLOPE: 16.0
+        2HR SLOPE: 5.1
+        3HR SLOPE: 28.1
+        4HR SLOPE: -56.3
+    1HR AVG SLOPE: 29.3
+    2HR AVG SLOPE: 10.6
+    3HR AVG SLOPE: 16.4
+    4HR AVG SLOPE: -1.8
+
+     TICKER PRICE: 7853.64000000
+           PROFIT: 0.5600000000000023
+        BUY_PRICE: 7853.64000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7854.11000000
+     BOTTOM PRICE: 7841.96
+       SELL COUNT: 1
+  PRICE CHANGE UP: 94.10999999999967
+PRICE CHANGE DOWN: 34.39000000000033
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 4:21:43 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 5.1
+      15MIN SLOPE: 19.6
+      30MIN SLOPE: -4.4
+        1HR SLOPE: -7.2
+        2HR SLOPE: 12.0
+        3HR SLOPE: 32.9
+        4HR SLOPE: 37.0
+    1HR AVG SLOPE: -5.8
+    2HR AVG SLOPE: 2.4
+    3HR AVG SLOPE: 12.6
+    4HR AVG SLOPE: 18.7
+
+     TICKER PRICE: 7889.99000000
+           PROFIT: 0.5600000000000023
+        BUY_PRICE: 7889.99000000
+       PRICE DIFF: 2.9899999999997817
+        SINK RATE: 0
+       PEAK PRICE: 7890.00000000
+     BOTTOM PRICE: 7887.01
+       SELL COUNT: 0
+  PRICE CHANGE UP: 127.01000000000022
+PRICE CHANGE DOWN: 50.6899999999996
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 5:02:59 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 2.9
+       5MIN SLOPE: 3.6
+      15MIN SLOPE: 9.2
+      30MIN SLOPE: 6.8
+        1HR SLOPE: 28.6
+        2HR SLOPE: 11.4
+        3HR SLOPE: 37.2
+        4HR SLOPE: 47.0
+    1HR AVG SLOPE: 17.7
+    2HR AVG SLOPE: 20.0
+    3HR AVG SLOPE: 25.7
+    4HR AVG SLOPE: 31.1
+
+     TICKER PRICE: 7904.96000000
+           PROFIT: 0.18999999999999773
+        BUY_PRICE: 7904.96000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7910.95000000
+     BOTTOM PRICE: 7882.78
+       SELL COUNT: 1
+  PRICE CHANGE UP: 150.94999999999982
+PRICE CHANGE DOWN: 26.75
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 8:00:37 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -1.5
+       5MIN SLOPE: 14.1
+      15MIN SLOPE: 6.0
+      30MIN SLOPE: -6.2
+        1HR SLOPE: 3.2
+        2HR SLOPE: -27.4
+        3HR SLOPE: 59.5
+        4HR SLOPE: 63.7
+    1HR AVG SLOPE: -1.5
+    2HR AVG SLOPE: -12.1
+    3HR AVG SLOPE: 11.8
+    4HR AVG SLOPE: 24.8
+
+     TICKER PRICE: 8039.44000000
+           PROFIT: 0.18999999999999773
+        BUY_PRICE: 8039.44000000
+       PRICE DIFF: 2.050000000000182
+        SINK RATE: 0
+       PEAK PRICE: 8039.45000000
+     BOTTOM PRICE: 8037.4
+       SELL COUNT: 0
+  PRICE CHANGE UP: 277.39999999999964
+PRICE CHANGE DOWN: 50.600000000000364
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 10:47:18 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -3.9
+       5MIN SLOPE: -9.6
+      15MIN SLOPE: -6.5
+      30MIN SLOPE: -25.7
+        1HR SLOPE: -58.8
+        2HR SLOPE: -57.1
+        3HR SLOPE: -60.1
+        4HR SLOPE: -63.2
+    1HR AVG SLOPE: -42.3
+    2HR AVG SLOPE: -58.0
+    3HR AVG SLOPE: -58.7
+    4HR AVG SLOPE: -59.8
+
+     TICKER PRICE: undefined
+           PROFIT: -2.1053427010889996
+        BUY_PRICE: undefined
+       PRICE DIFF: 5.319999999999709
+        SINK RATE: 0
+       PEAK PRICE: 7894.99000000
+     BOTTOM PRICE: 7889.66
+       SELL COUNT: 1
+  PRICE CHANGE UP: 129.67000000000007
+PRICE CHANGE DOWN: 198.32999999999993
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 12:31:03 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 14.8
+       5MIN SLOPE: 19.2
+      15MIN SLOPE: 22.4
+      30MIN SLOPE: 33.8
+        1HR SLOPE: 9.6
+        2HR SLOPE: 5.5
+        3HR SLOPE: -54.8
+        4HR SLOPE: -46.6
+    1HR AVG SLOPE: 21.7
+    2HR AVG SLOPE: 7.5
+    3HR AVG SLOPE: -13.2
+    4HR AVG SLOPE: -21.6
+
+     TICKER PRICE: 7912.64000000
+           PROFIT: -2.1053427010889996
+        BUY_PRICE: 7912.64000000
+       PRICE DIFF: 2.3499999999994543
+        SINK RATE: 0
+       PEAK PRICE: 7914.99000000
+     BOTTOM PRICE: 7880
+       SELL COUNT: 0
+  PRICE CHANGE UP: 152.64000000000033
+PRICE CHANGE DOWN: 175.35999999999967
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 1:44:35 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 3.6
+       5MIN SLOPE: 12.9
+      15MIN SLOPE: 16.2
+      30MIN SLOPE: 18.8
+        1HR SLOPE: 18.8
+        2HR SLOPE: 23.7
+        3HR SLOPE: 15.2
+        4HR SLOPE: -47.7
+    1HR AVG SLOPE: 18.8
+    2HR AVG SLOPE: 21.3
+    3HR AVG SLOPE: 19.2
+    4HR AVG SLOPE: 2.5
+
+     TICKER PRICE: 7923.01000000
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 7923.01000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7923.53000000
+     BOTTOM PRICE: 7890.02
+       SELL COUNT: 1
+  PRICE CHANGE UP: 163.52999999999975
+PRICE CHANGE DOWN: 164.47000000000025
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 4:49:12 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 9.3
+       5MIN SLOPE: 10.7
+      15MIN SLOPE: -9.7
+      30MIN SLOPE: -8.6
+        1HR SLOPE: -13.5
+        2HR SLOPE: -29.7
+        3HR SLOPE: -11.5
+        4HR SLOPE: 8.7
+    1HR AVG SLOPE: -11.1
+    2HR AVG SLOPE: -21.6
+    3HR AVG SLOPE: -18.2
+    4HR AVG SLOPE: -11.5
+
+     TICKER PRICE: 7899.98000000
+           PROFIT: 0.12999999999999545
+        BUY_PRICE: 7899.98000000
+       PRICE DIFF: 24.050000000000182
+        SINK RATE: 0
+       PEAK PRICE: 7924.00000000
+     BOTTOM PRICE: 7885.7
+       SELL COUNT: 0
+  PRICE CHANGE UP: 139.94999999999982
+PRICE CHANGE DOWN: 188.05000000000018
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 5:03:39 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.5
+       5MIN SLOPE: 7.2
+      15MIN SLOPE: 7.2
+      30MIN SLOPE: -2.5
+        1HR SLOPE: -4.6
+        2HR SLOPE: -23.8
+        3HR SLOPE: -1.9
+        4HR SLOPE: 22.7
+    1HR AVG SLOPE: -3.5
+    2HR AVG SLOPE: -14.2
+    3HR AVG SLOPE: -10.1
+    4HR AVG SLOPE: -1.9
+
+     TICKER PRICE: 7908.00000000
+           PROFIT: 0.09999999999999432
+        BUY_PRICE: 7908.00000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7910.00000000
+     BOTTOM PRICE: 7892.05
+       SELL COUNT: 1
+  PRICE CHANGE UP: 150
+PRICE CHANGE DOWN: 178
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 5:42:16 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 2.4
+       5MIN SLOPE: 0.7
+      15MIN SLOPE: -32.0
+      30MIN SLOPE: -37.3
+        1HR SLOPE: -35.0
+        2HR SLOPE: -39.7
+        3HR SLOPE: -38.9
+        4HR SLOPE: -34.5
+    1HR AVG SLOPE: -36.1
+    2HR AVG SLOPE: -37.4
+    3HR AVG SLOPE: -37.9
+    4HR AVG SLOPE: -37.0
+
+     TICKER PRICE: 7851.00000000
+           PROFIT: 0
+        BUY_PRICE: 7851.00000000
+       PRICE DIFF: 0.010000000000218279
+        SINK RATE: 0
+       PEAK PRICE: 7851.01000000
+     BOTTOM PRICE: 7843.94
+       SELL COUNT: 0
+  PRICE CHANGE UP: 7.0600000000004
+PRICE CHANGE DOWN: 69
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/28/2018 5:53:23 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 2.2
+       5MIN SLOPE: 5.0
+      15MIN SLOPE: 12.2
+      30MIN SLOPE: -22.8
+        1HR SLOPE: -22.8
+        2HR SLOPE: -32.8
+        3HR SLOPE: -40.4
+        4HR SLOPE: -33.4
+    1HR AVG SLOPE: -22.8
+    2HR AVG SLOPE: -27.8
+    3HR AVG SLOPE: -32.0
+    4HR AVG SLOPE: -32.4
+
+     TICKER PRICE: 7867.00000000
+           PROFIT: 0.20000000000000284
+        BUY_PRICE: 7867.00000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7872.39000000
+     BOTTOM PRICE: 7860
+       SELL COUNT: 1
+  PRICE CHANGE UP: 28.450000000000728
+PRICE CHANGE DOWN: 47.60999999999967
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 7:08:42 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -3.6
+       5MIN SLOPE: -3.6
+      15MIN SLOPE: -12.8
+      30MIN SLOPE: -16.4
+        1HR SLOPE: -21.9
+        2HR SLOPE: 18.1
+        3HR SLOPE: 18.1
+        4HR SLOPE: 9.3
+    1HR AVG SLOPE: -19.1
+    2HR AVG SLOPE: -1.9
+    3HR AVG SLOPE: 4.8
+    4HR AVG SLOPE: 5.9
+
+     TICKER PRICE: 7937.99000000
+           PROFIT: 0.20000000000000284
+        BUY_PRICE: 7937.99000000
+       PRICE DIFF: 37.94999999999982
+        SINK RATE: 0
+       PEAK PRICE: 7974.95000000
+     BOTTOM PRICE: 7937
+       SELL COUNT: 0
+  PRICE CHANGE UP: 93.0600000000004
+PRICE CHANGE DOWN: 61
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 7:16:57 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 0.0
+      15MIN SLOPE: 9.3
+      30MIN SLOPE: -2.2
+        1HR SLOPE: -13.4
+        2HR SLOPE: 27.3
+        3HR SLOPE: 28.9
+        4HR SLOPE: 23.7
+    1HR AVG SLOPE: -7.8
+    2HR AVG SLOPE: 7.0
+    3HR AVG SLOPE: 14.3
+    4HR AVG SLOPE: 16.6
+
+     TICKER PRICE: 7956.01000000
+           PROFIT: 0.23000000000000398
+        BUY_PRICE: 7956.01000000
+       PRICE DIFF: -3.680000000000291
+        SINK RATE: 0
+       PEAK PRICE: 7956.00000000
+     BOTTOM PRICE: 7940.95
+       SELL COUNT: 1
+  PRICE CHANGE UP: 115.74000000000069
+PRICE CHANGE DOWN: 38.31999999999971
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/28/2018 9:54:41 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -13.5
+       5MIN SLOPE: 0.6
+      15MIN SLOPE: -31.3
+      30MIN SLOPE: -38.5
+        1HR SLOPE: -31.2
+        2HR SLOPE: -21.0
+        3HR SLOPE: -43.1
+        4HR SLOPE: 7.1
+    1HR AVG SLOPE: -34.9
+    2HR AVG SLOPE: -26.1
+    3HR AVG SLOPE: -31.8
+    4HR AVG SLOPE: -22.1
+
+     TICKER PRICE: 7900.34000000
+           PROFIT: 0.23000000000000398
+        BUY_PRICE: 7900.34000000
+       PRICE DIFF: 18.949999999999818
+        SINK RATE: 0
+       PEAK PRICE: 7901.13000000
+     BOTTOM PRICE: 7882.18
+       SELL COUNT: 0
+  PRICE CHANGE UP: 38.24000000000069
+PRICE CHANGE DOWN: 115.81999999999971
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/29/2018 1:59:01 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -4.4
+       5MIN SLOPE: -11.8
+      15MIN SLOPE: -13.6
+      30MIN SLOPE: -45.1
+        1HR SLOPE: -45.5
+        2HR SLOPE: -76.3
+        3HR SLOPE: -77.1
+        4HR SLOPE: -77.2
+    1HR AVG SLOPE: -45.3
+    2HR AVG SLOPE: -60.9
+    3HR AVG SLOPE: -66.3
+    4HR AVG SLOPE: -69.0
+
+     TICKER PRICE: undefined
+           PROFIT: -4.5990893353099995
+        BUY_PRICE: undefined
+       PRICE DIFF: 23.30999999999949
+        SINK RATE: 0
+       PEAK PRICE: 7578.86000000
+     BOTTOM PRICE: 7555.55
+       SELL COUNT: 1
+  PRICE CHANGE UP: 0
+PRICE CHANGE DOWN: 442.4499999999998
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/29/2018 2:03:11 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: -5.8
+      15MIN SLOPE: -27.7
+      30MIN SLOPE: -39.5
+        1HR SLOPE: -34.7
+        2HR SLOPE: -32.6
+        3HR SLOPE: 32.5
+        4HR SLOPE: -31.0
+    1HR AVG SLOPE: -37.1
+    2HR AVG SLOPE: -33.7
+    3HR AVG SLOPE: -11.6
+    4HR AVG SLOPE: -16.5
+
+     TICKER PRICE: 7432.49000000
+           PROFIT: 0
+        BUY_PRICE: 7432.49000000
+       PRICE DIFF: 12.319999999999709
+        SINK RATE: 0
+       PEAK PRICE: 7441.82000000
+     BOTTOM PRICE: 7422.31
+       SELL COUNT: 0
+  PRICE CHANGE UP: 7.199999999999818
+PRICE CHANGE DOWN: 67.6899999999996
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+3/29/2018 3:11:54 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.8
+       5MIN SLOPE: 2.7
+      15MIN SLOPE: -4.7
+      30MIN SLOPE: 15.2
+        1HR SLOPE: 1.6
+        2HR SLOPE: -27.4
+        3HR SLOPE: -26.0
+        4HR SLOPE: 31.5
+    1HR AVG SLOPE: 8.4
+    2HR AVG SLOPE: -12.9
+    3HR AVG SLOPE: -17.3
+    4HR AVG SLOPE: -5.1
+
+     TICKER PRICE: 7441.50000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 7441.50000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7443.00000000
+     BOTTOM PRICE: 7435
+       SELL COUNT: 1
+  PRICE CHANGE UP: 31.800000000000182
+PRICE CHANGE DOWN: 54.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/29/2018 3:49:18 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 7.7
+       5MIN SLOPE: 7.4
+      15MIN SLOPE: -35.7
+      30MIN SLOPE: -46.6
+        1HR SLOPE: -37.7
+        2HR SLOPE: -39.6
+        3HR SLOPE: -57.5
+        4HR SLOPE: -18.7
+    1HR AVG SLOPE: -42.2
+    2HR AVG SLOPE: -38.7
+    3HR AVG SLOPE: -44.9
+    4HR AVG SLOPE: -38.4
+
+     TICKER PRICE: 7374.98000000
+           PROFIT: 0.12000000000000455
+        BUY_PRICE: 7374.98000000
+       PRICE DIFF: 0.1000000000003638
+        SINK RATE: 0
+       PEAK PRICE: 7375.00000000
+     BOTTOM PRICE: 7365.1
+       SELL COUNT: 0
+  PRICE CHANGE UP: 19.1899999999996
+PRICE CHANGE DOWN: 122.28999999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/29/2018 8:28:35 PM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -21.9
+       5MIN SLOPE: -42.4
+      15MIN SLOPE: -40.5
+      30MIN SLOPE: -40.9
+        1HR SLOPE: -59.7
+        2HR SLOPE: -73.5
+        3HR SLOPE: -65.8
+        4HR SLOPE: -75.5
+    1HR AVG SLOPE: -50.3
+    2HR AVG SLOPE: -66.6
+    3HR AVG SLOPE: -66.3
+    4HR AVG SLOPE: -68.6
+
+     TICKER PRICE: undefined
+           PROFIT: -5.267424393600001
+        BUY_PRICE: undefined
+       PRICE DIFF: 60.039999999999964
+        SINK RATE: 0
+       PEAK PRICE: 7064.04000000
+     BOTTOM PRICE: 7004
+       SELL COUNT: 1
+  PRICE CHANGE UP: 0
+PRICE CHANGE DOWN: 493.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 2:34:30 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -1.6
+       5MIN SLOPE: 0.6
+      15MIN SLOPE: 28.1
+      30MIN SLOPE: 50.0
+        1HR SLOPE: 74.1
+        2HR SLOPE: 81.4
+        3HR SLOPE: 74.1
+        4HR SLOPE: 76.7
+    1HR AVG SLOPE: 62.0
+    2HR AVG SLOPE: 77.8
+    3HR AVG SLOPE: 76.5
+    4HR AVG SLOPE: 76.6
+
+     TICKER PRICE: 7136.03000000
+           PROFIT: -5.267424393600001
+        BUY_PRICE: 7136.03000000
+       PRICE DIFF: 5.990000000000691
+        SINK RATE: 0
+       PEAK PRICE: 7142.02000000
+     BOTTOM PRICE: 7112.86
+       SELL COUNT: 0
+  PRICE CHANGE UP: 505.9299999999994
+PRICE CHANGE DOWN: 361.15999999999985
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 3:44:33 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -2.6
+       5MIN SLOPE: 14.0
+      15MIN SLOPE: 15.7
+      30MIN SLOPE: 41.8
+        1HR SLOPE: 39.0
+        2HR SLOPE: 60.1
+        3HR SLOPE: 81.2
+        4HR SLOPE: 74.3
+    1HR AVG SLOPE: 40.4
+    2HR AVG SLOPE: 49.5
+    3HR AVG SLOPE: 60.1
+    4HR AVG SLOPE: 63.7
+
+     TICKER PRICE: 7143.80000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7143.80000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7147.00000000
+     BOTTOM PRICE: 7142.06
+       SELL COUNT: 1
+  PRICE CHANGE UP: 516.8999999999996
+PRICE CHANGE DOWN: 350.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 4:27:09 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.0
+       5MIN SLOPE: -11.9
+      15MIN SLOPE: -34.9
+      30MIN SLOPE: -7.0
+        1HR SLOPE: 47.9
+        2HR SLOPE: 38.8
+        3HR SLOPE: 77.1
+        4HR SLOPE: 82.5
+    1HR AVG SLOPE: 20.4
+    2HR AVG SLOPE: 43.3
+    3HR AVG SLOPE: 54.6
+    4HR AVG SLOPE: 61.6
+
+     TICKER PRICE: 7199.82000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7199.82000000
+       PRICE DIFF: 5.829999999999927
+        SINK RATE: 0
+       PEAK PRICE: 7199.84000000
+     BOTTOM PRICE: 7194.01
+       SELL COUNT: 0
+  PRICE CHANGE UP: 563.9099999999999
+PRICE CHANGE DOWN: 303.1799999999994
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 10:44:56 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -8.3
+       5MIN SLOPE: -37.7
+      15MIN SLOPE: -30.9
+      30MIN SLOPE: -33.8
+        1HR SLOPE: -31.4
+        2HR SLOPE: -65.0
+        3HR SLOPE: -61.7
+        4HR SLOPE: -70.8
+    1HR AVG SLOPE: -32.6
+    2HR AVG SLOPE: -48.2
+    3HR AVG SLOPE: -52.7
+    4HR AVG SLOPE: -57.2
+
+     TICKER PRICE: undefined
+           PROFIT: -5.267436210569001
+        BUY_PRICE: undefined
+       PRICE DIFF: 21.970000000000255
+        SINK RATE: 0
+       PEAK PRICE: 6859.96000000
+     BOTTOM PRICE: 6838.04
+       SELL COUNT: 1
+  PRICE CHANGE UP: 207.88999999999942
+PRICE CHANGE DOWN: 659.1999999999998
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 4:32:26 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 7.2
+       5MIN SLOPE: -5.4
+      15MIN SLOPE: -24.8
+      30MIN SLOPE: 9.1
+        1HR SLOPE: -25.5
+        2HR SLOPE: 57.4
+        3HR SLOPE: 64.9
+        4HR SLOPE: -50.2
+    1HR AVG SLOPE: -8.2
+    2HR AVG SLOPE: 15.9
+    3HR AVG SLOPE: 32.3
+    4HR AVG SLOPE: 11.7
+
+     TICKER PRICE: 6788.58000000
+           PROFIT: -5.267436210569001
+        BUY_PRICE: 6788.58000000
+       PRICE DIFF: 8.590000000000146
+        SINK RATE: 0
+       PEAK PRICE: 6788.59000000
+     BOTTOM PRICE: 6779.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 180
+PRICE CHANGE DOWN: 717.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 4:39:51 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -5.8
+       5MIN SLOPE: 24.1
+      15MIN SLOPE: 20.1
+      30MIN SLOPE: 17.9
+        1HR SLOPE: -20.8
+        2HR SLOPE: 55.5
+        3HR SLOPE: 64.8
+        4HR SLOPE: 55.3
+    1HR AVG SLOPE: -1.5
+    2HR AVG SLOPE: 17.4
+    3HR AVG SLOPE: 33.2
+    4HR AVG SLOPE: 38.7
+
+     TICKER PRICE: 6819.14000000
+           PROFIT: 0.45000000000000284
+        BUY_PRICE: 6819.14000000
+       PRICE DIFF: 2.019999999999527
+        SINK RATE: 0
+       PEAK PRICE: 6822.41000000
+     BOTTOM PRICE: 6819.12
+       SELL COUNT: 1
+  PRICE CHANGE UP: 220.39000000000033
+PRICE CHANGE DOWN: 676.7999999999993
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 6:12:13 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: 10.6
+      15MIN SLOPE: -28.0
+      30MIN SLOPE: 9.4
+        1HR SLOPE: 30.8
+        2HR SLOPE: 54.1
+        3HR SLOPE: 56.2
+        4HR SLOPE: 70.1
+    1HR AVG SLOPE: 20.1
+    2HR AVG SLOPE: 42.5
+    3HR AVG SLOPE: 47.0
+    4HR AVG SLOPE: 52.8
+
+     TICKER PRICE: 6893.06000000
+           PROFIT: 0.45000000000000284
+        BUY_PRICE: 6893.06000000
+       PRICE DIFF: 0.009999999999308784
+        SINK RATE: 0
+       PEAK PRICE: 6893.07000000
+     BOTTOM PRICE: 6880.11
+       SELL COUNT: 0
+  PRICE CHANGE UP: 293.0600000000004
+PRICE CHANGE DOWN: 604.1299999999992
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 8:13:08 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 4.4
+       5MIN SLOPE: 31.2
+      15MIN SLOPE: 51.4
+      30MIN SLOPE: 39.4
+        1HR SLOPE: 67.2
+        2HR SLOPE: 31.2
+        3HR SLOPE: 50.2
+        4HR SLOPE: 60.4
+    1HR AVG SLOPE: 53.3
+    2HR AVG SLOPE: 49.2
+    3HR AVG SLOPE: 49.5
+    4HR AVG SLOPE: 52.3
+
+     TICKER PRICE: 6937.35000000
+           PROFIT: 0.6400000000000006
+        BUY_PRICE: 6937.35000000
+       PRICE DIFF: 7.809999999999491
+        SINK RATE: 0
+       PEAK PRICE: 6946.99000000
+     BOTTOM PRICE: 6926.54
+       SELL COUNT: 1
+  PRICE CHANGE UP: 339.1800000000003
+PRICE CHANGE DOWN: 558.0099999999993
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 9:14:40 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 6.4
+       5MIN SLOPE: 24.5
+      15MIN SLOPE: -0.4
+      30MIN SLOPE: -17.1
+        1HR SLOPE: 15.6
+        2HR SLOPE: 71.2
+        3HR SLOPE: 59.7
+        4HR SLOPE: 63.1
+    1HR AVG SLOPE: -0.8
+    2HR AVG SLOPE: 43.4
+    3HR AVG SLOPE: 48.8
+    4HR AVG SLOPE: 52.4
+
+     TICKER PRICE: 6987.54000000
+           PROFIT: 0.6400000000000006
+        BUY_PRICE: 6987.54000000
+       PRICE DIFF: 0.5500000000001819
+        SINK RATE: 0
+       PEAK PRICE: 6987.55000000
+     BOTTOM PRICE: 6946.55
+       SELL COUNT: 0
+  PRICE CHANGE UP: 387
+PRICE CHANGE DOWN: 510.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/30/2018 9:19:01 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 8.9
+       5MIN SLOPE: 22.7
+      15MIN SLOPE: 15.2
+      30MIN SLOPE: -20.7
+        1HR SLOPE: 7.3
+        2HR SLOPE: 70.9
+        3HR SLOPE: 62.6
+        4HR SLOPE: 57.3
+    1HR AVG SLOPE: -6.7
+    2HR AVG SLOPE: 39.1
+    3HR AVG SLOPE: 46.9
+    4HR AVG SLOPE: 49.5
+
+     TICKER PRICE: 7009.01000000
+           PROFIT: 0.3100000000000023
+        BUY_PRICE: 7009.01000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7009.48000000
+     BOTTOM PRICE: 7006.86
+       SELL COUNT: 1
+  PRICE CHANGE UP: 409.47999999999956
+PRICE CHANGE DOWN: 487.71000000000004
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/30/2018 10:33:57 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -2.0
+       5MIN SLOPE: 27.4
+      15MIN SLOPE: -11.3
+      30MIN SLOPE: -31.0
+        1HR SLOPE: 3.3
+        2HR SLOPE: 47.9
+        3HR SLOPE: 68.7
+        4HR SLOPE: 74.6
+    1HR AVG SLOPE: -13.8
+    2HR AVG SLOPE: 25.6
+    3HR AVG SLOPE: 40.0
+    4HR AVG SLOPE: 48.6
+
+     TICKER PRICE: 7046.56000000
+           PROFIT: 0.3100000000000023
+        BUY_PRICE: 7046.56000000
+       PRICE DIFF: 7.150000000000546
+        SINK RATE: 0
+       PEAK PRICE: 7048.01000000
+     BOTTOM PRICE: 7040.86
+       SELL COUNT: 0
+  PRICE CHANGE UP: 440.8599999999997
+PRICE CHANGE DOWN: 456.3299999999999
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 6:31:42 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -17.2
+       5MIN SLOPE: 43.5
+      15MIN SLOPE: 57.8
+      30MIN SLOPE: 37.9
+        1HR SLOPE: 67.2
+        2HR SLOPE: 63.2
+        3HR SLOPE: 75.2
+        4HR SLOPE: 66.9
+    1HR AVG SLOPE: 52.5
+    2HR AVG SLOPE: 65.2
+    3HR AVG SLOPE: 68.5
+    4HR AVG SLOPE: 68.1
+
+     TICKER PRICE: 7080.02000000
+           PROFIT: 0.46999999999999886
+        BUY_PRICE: 7080.02000000
+       PRICE DIFF: 22.32000000000062
+        SINK RATE: 0
+       PEAK PRICE: 7110.27000000
+     BOTTOM PRICE: 7078.1
+       SELL COUNT: 1
+  PRICE CHANGE UP: 487.9499999999998
+PRICE CHANGE DOWN: 409.2399999999998
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/31/2018 7:28:34 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: -5.7
+      15MIN SLOPE: -27.4
+      30MIN SLOPE: -13.0
+        1HR SLOPE: -8.3
+        2HR SLOPE: 69.2
+        3HR SLOPE: 62.5
+        4HR SLOPE: 74.5
+    1HR AVG SLOPE: -10.7
+    2HR AVG SLOPE: 30.5
+    3HR AVG SLOPE: 41.1
+    4HR AVG SLOPE: 49.5
+
+     TICKER PRICE: 7070.93000000
+           PROFIT: 0.46999999999999886
+        BUY_PRICE: 7070.93000000
+       PRICE DIFF: 10.270000000000437
+        SINK RATE: 0
+       PEAK PRICE: 7079.77000000
+     BOTTOM PRICE: 7069.5
+       SELL COUNT: 0
+  PRICE CHANGE UP: 469.5
+PRICE CHANGE DOWN: 427.6899999999996
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+3/31/2018 7:34:51 AM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -10.0
+       5MIN SLOPE: 7.9
+      15MIN SLOPE: 3.0
+      30MIN SLOPE: -16.8
+        1HR SLOPE: -25.9
+        2HR SLOPE: 66.1
+        3HR SLOPE: 65.2
+        4HR SLOPE: 74.0
+    1HR AVG SLOPE: -21.4
+    2HR AVG SLOPE: 20.1
+    3HR AVG SLOPE: 35.1
+    4HR AVG SLOPE: 44.9
+
+     TICKER PRICE: 7078.67000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7078.67000000
+       PRICE DIFF: -1.3800000000001091
+        SINK RATE: 0
+       PEAK PRICE: 7080.00000000
+     BOTTOM PRICE: 7050
+       SELL COUNT: 1
+  PRICE CHANGE UP: 481.3800000000001
+PRICE CHANGE DOWN: 415.8099999999995
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 9:42:20 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: -0.0
+       5MIN SLOPE: 5.8
+      15MIN SLOPE: 6.2
+      30MIN SLOPE: -30.7
+        1HR SLOPE: -47.0
+        2HR SLOPE: -6.3
+        3HR SLOPE: 0.1
+        4HR SLOPE: 60.8
+    1HR AVG SLOPE: -38.9
+    2HR AVG SLOPE: -26.6
+    3HR AVG SLOPE: -17.7
+    4HR AVG SLOPE: 1.9
+
+     TICKER PRICE: 7097.20000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7097.20000000
+       PRICE DIFF: 0.21000000000003638
+        SINK RATE: 0
+       PEAK PRICE: 7097.21000000
+     BOTTOM PRICE: 7069
+       SELL COUNT: 0
+  PRICE CHANGE UP: 497
+PRICE CHANGE DOWN: 400.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 12:09:23 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 5.6
+       5MIN SLOPE: 7.2
+      15MIN SLOPE: 35.1
+      30MIN SLOPE: 32.3
+        1HR SLOPE: 51.1
+        2HR SLOPE: 34.0
+        3HR SLOPE: -22.2
+        4HR SLOPE: -15.6
+    1HR AVG SLOPE: 41.7
+    2HR AVG SLOPE: 42.5
+    3HR AVG SLOPE: 21.0
+    4HR AVG SLOPE: 11.8
+
+     TICKER PRICE: 7105.02000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7105.02000000
+       PRICE DIFF: 0
+        SINK RATE: 0
+       PEAK PRICE: 7108.00000000
+     BOTTOM PRICE: 7040
+       SELL COUNT: 1
+  PRICE CHANGE UP: 508
+PRICE CHANGE DOWN: 389.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 1:21:27 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 16.5
+       5MIN SLOPE: -1.4
+      15MIN SLOPE: -32.1
+      30MIN SLOPE: -29.2
+        1HR SLOPE: -25.6
+        2HR SLOPE: 45.5
+        3HR SLOPE: 56.5
+        4HR SLOPE: -10.9
+    1HR AVG SLOPE: -27.4
+    2HR AVG SLOPE: 9.9
+    3HR AVG SLOPE: 25.5
+    4HR AVG SLOPE: 16.4
+
+     TICKER PRICE: 7107.26000000
+           PROFIT: 0.10999999999999943
+        BUY_PRICE: 7107.26000000
+       PRICE DIFF: 3.040000000000873
+        SINK RATE: 0
+       PEAK PRICE: 7107.27000000
+     BOTTOM PRICE: 7086
+       SELL COUNT: 0
+  PRICE CHANGE UP: 504.22999999999956
+PRICE CHANGE DOWN: 392.96000000000004
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 1:53:42 PM | ^^^ !!! WIN !!!
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: 1.3
+       5MIN SLOPE: 1.3
+      15MIN SLOPE: 16.9
+      30MIN SLOPE: -6.7
+        1HR SLOPE: -40.4
+        2HR SLOPE: 30.4
+        3HR SLOPE: 36.0
+        4HR SLOPE: 32.7
+    1HR AVG SLOPE: -23.6
+    2HR AVG SLOPE: -5.0
+    3HR AVG SLOPE: 8.7
+    4HR AVG SLOPE: 14.7
+
+     TICKER PRICE: 7117.09000000
+           PROFIT: 0.14000000000000057
+        BUY_PRICE: 7117.09000000
+       PRICE DIFF: 18.850000000000364
+        SINK RATE: 0
+       PEAK PRICE: 7135.14000000
+     BOTTOM PRICE: 7073
+       SELL COUNT: 1
+  PRICE CHANGE UP: 516.29
+PRICE CHANGE DOWN: 380.89999999999964
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+3/31/2018 2:42:50 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 7.7
+       5MIN SLOPE: 17.8
+      15MIN SLOPE: -0.4
+      30MIN SLOPE: -29.7
+        1HR SLOPE: 2.0
+        2HR SLOPE: -38.7
+        3HR SLOPE: 27.8
+        4HR SLOPE: 44.4
+    1HR AVG SLOPE: -13.8
+    2HR AVG SLOPE: -18.4
+    3HR AVG SLOPE: -3.0
+    4HR AVG SLOPE: 8.9
+
+     TICKER PRICE: 7099.45000000
+           PROFIT: 0.14000000000000057
+        BUY_PRICE: 7099.45000000
+       PRICE DIFF: 30.470000000000255
+        SINK RATE: 0
+       PEAK PRICE: 7099.46000000
+     BOTTOM PRICE: 7068.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 468.9899999999998
+PRICE CHANGE DOWN: 428.1999999999998
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+4/1/2018 3:33:01 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -11.7
+       5MIN SLOPE: -2.6
+      15MIN SLOPE: -33.5
+      30MIN SLOPE: -56.8
+        1HR SLOPE: -55.2
+        2HR SLOPE: -71.5
+        3HR SLOPE: -72.6
+        4HR SLOPE: -71.4
+    1HR AVG SLOPE: -56.0
+    2HR AVG SLOPE: -63.4
+    3HR AVG SLOPE: -66.4
+    4HR AVG SLOPE: -67.7
+
+     TICKER PRICE: undefined
+           PROFIT: -5.297342360000003
+        BUY_PRICE: undefined
+       PRICE DIFF: 24.01000000000022
+        SINK RATE: 0
+       PEAK PRICE: 6764.01000000
+     BOTTOM PRICE: 6740
+       SELL COUNT: 1
+  PRICE CHANGE UP: 140
+PRICE CHANGE DOWN: 757.1899999999996
+       BUY REASON: always_buy
+      SELL REASON: peak_close
+---------------------------------------------
+
+
+
+4/3/2018 4:47:12 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 12.1
+       5MIN SLOPE: 7.5
+      15MIN SLOPE: -35.8
+      30MIN SLOPE: -33.2
+        1HR SLOPE: -38.2
+        2HR SLOPE: -39.7
+        3HR SLOPE: 14.4
+        4HR SLOPE: 7.5
+    1HR AVG SLOPE: -35.7
+    2HR AVG SLOPE: -39.0
+    3HR AVG SLOPE: -21.2
+    4HR AVG SLOPE: -14.0
+
+     TICKER PRICE: 7416.56000000
+           PROFIT: 0
+        BUY_PRICE: 7416.56000000
+       PRICE DIFF: 0.21000000000003638
+        SINK RATE: 0
+       PEAK PRICE: 7416.77000000
+     BOTTOM PRICE: 7390
+       SELL COUNT: 0
+  PRICE CHANGE UP: 32.220000000000255
+PRICE CHANGE DOWN: 63.66999999999916
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
+4/3/2018 9:40:59 PM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 8.9
+       5MIN SLOPE: -2.3
+      15MIN SLOPE: -35.8
+      30MIN SLOPE: -46.8
+        1HR SLOPE: -40.7
+        2HR SLOPE: -49.2
+        3HR SLOPE: -38.1
+        4HR SLOPE: -52.9
+    1HR AVG SLOPE: -43.8
+    2HR AVG SLOPE: -45.0
+    3HR AVG SLOPE: -42.7
+    4HR AVG SLOPE: -45.2
+
+     TICKER PRICE: 7416.56000000
+           PROFIT: 0
+        BUY_PRICE: 7416.56000000
+       PRICE DIFF: 3
+        SINK RATE: 0
+       PEAK PRICE: 7339.99000000
+     BOTTOM PRICE: 7332.99
+       SELL COUNT: 0
+  PRICE CHANGE UP: 36.98999999999978
+PRICE CHANGE DOWN: 143.23999999999978
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+4/4/2018 6:10:48 AM | ^^^ LOSS :(
+---------------------------------------------
+| sell
+---------------------------------------------
+       1MIN SLOPE: -14.4
+       5MIN SLOPE: -8.9
+      15MIN SLOPE: -24.2
+      30MIN SLOPE: -43.4
+        1HR SLOPE: -73.1
+        2HR SLOPE: -74.7
+        3HR SLOPE: -77.2
+        4HR SLOPE: -76.1
+    1HR AVG SLOPE: -58.3
+    2HR AVG SLOPE: -73.9
+    3HR AVG SLOPE: -75.0
+    4HR AVG SLOPE: -75.3
+
+     TICKER PRICE: undefined
+           PROFIT: -5.257456111990496
+        BUY_PRICE: undefined
+       PRICE DIFF: 27.699999999999818
+        SINK RATE: 0
+       PEAK PRICE: 7072.13000000
+     BOTTOM PRICE: 7045
+       SELL COUNT: 1
+  PRICE CHANGE UP: 0.43000000000029104
+PRICE CHANGE DOWN: 435.7999999999993
+       BUY REASON: always_buy
+      SELL REASON: dropping
+---------------------------------------------
+
+
+
+4/5/2018 10:48:54 AM
+---------------------------------------------
+| buy
+---------------------------------------------
+       1MIN SLOPE: 0.0
+       5MIN SLOPE: -1.7
+      15MIN SLOPE: -8.3
+      30MIN SLOPE: -36.5
+        1HR SLOPE: -4.9
+        2HR SLOPE: 70.8
+        3HR SLOPE: 31.3
+        4HR SLOPE: 23.7
+    1HR AVG SLOPE: -20.7
+    2HR AVG SLOPE: 32.9
+    3HR AVG SLOPE: 32.4
+    4HR AVG SLOPE: 30.2
+
+     TICKER PRICE: 6829.98000000
+           PROFIT: 0
+        BUY_PRICE: 6829.98000000
+       PRICE DIFF: 2.25
+        SINK RATE: 0
+       PEAK PRICE: 6832.00000000
+     BOTTOM PRICE: 6823.38
+       SELL COUNT: 0
+  PRICE CHANGE UP: 12.409999999999854
+PRICE CHANGE DOWN: 103.35999999999967
+       BUY REASON: always_buy
+      SELL REASON: false
+---------------------------------------------
+
+
+
